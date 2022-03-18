@@ -1,7 +1,7 @@
 This project contains the analysis material for the ICPC paper "Estimating Developers’ Cognitive Load at a Fine-grained level Using Non-intrusive Psycho-physiological Measures"
 
 
--Folder: "processingPipeline" contains (1) the pipeline used to extract the features, (2) a sample corresponding to the data for one participant (P01) performing one task (C_5) (the full dataset (9.57GB) can be available under request), (3) a sample of the extracted metrics and a sample of the datasets used for the machine learning (ML) part
+- Folder: "processingPipeline" contains (1) the pipeline used to extract the features, (2) a sample corresponding to the data for one participant (P01) performing one task (C_5) (the full dataset (9.57GB) can be available under request), (3) a sample of the extracted metrics and a sample of the datasets used for the machine learning (ML) part
 
 	-Structure summary:
 			- Data:
@@ -19,7 +19,7 @@ This project contains the analysis material for the ICPC paper "Estimating Devel
 
 
 
--Folder: "ML" contains the script used to train the machine learning (ML) models, the features/labels datasets and the cross-validation results
+- Folder: "ML" contains the script used to train the machine learning (ML) models, the features/labels datasets and the cross-validation results
 
 	-Structure summary:
 		- datasets:
