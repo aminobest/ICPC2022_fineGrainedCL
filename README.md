@@ -39,7 +39,7 @@ This project contains the analysis material for the ICPC paper "Estimating Devel
 				- results_revised.csv: performance measures (F1, recall, accuracy and precision) computed for models trained and tested with labels obtained from the revised highlights
 				- feature importance: feature importance scores for models trained and tested with labels obtained from the revised highlights
 
--Folder: "data collection material" contains the material used for the data collection including (1) the used comprehension tasks (2) the highlights tasks and (3) the quiz
+- Folder: "data collection material" contains the material used for the data collection including (1) the used comprehension tasks (2) the highlights tasks and (3) the quiz
 	
 	- Structure summary:
 		- code comprehension tasks: the Java source-code files used as code comprehension tasks
