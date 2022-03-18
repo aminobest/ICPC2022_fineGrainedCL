@@ -1,0 +1,1801 @@
+,importance,feature,round
+fixation_PupilSize_std_sum,0.2904436079926787,fixation_PupilSize_std_sum,0;0
+Fixation Duration_sum,0.0843936673689134,Fixation Duration_sum,0;0
+fixation_PupilSize_sum_sum,0.0681995402805876,fixation_PupilSize_sum_sum,0;0
+Sub-scanNUniqueVisits_sum,0.0621338038982676,Sub-scanNUniqueVisits_sum,0;0
+fixation_NumberOfPupilPeaks_sum,0.0576221712137485,fixation_NumberOfPupilPeaks_sum,0;0
+fixation_PupilSize_max_sum,0.0573204903897323,fixation_PupilSize_max_sum,0;0
+fixation_PupilPeaksAmplitude_std_sum,0.0506632202307456,fixation_PupilPeaksAmplitude_std_sum,0;0
+fixation_PupilPeaksAmplitude_mean_sum,0.0343652068393695,fixation_PupilPeaksAmplitude_mean_sum,0;0
+fixation_PupilSize_min_sum,0.0326351782347642,fixation_PupilSize_min_sum,0;0
+fixation_PupilPeaksAmplitude_median_sum,0.0324276876441573,fixation_PupilPeaksAmplitude_median_sum,0;0
+fixation_PupilPeaksAmplitude_sum_sum,0.0318411676015643,fixation_PupilPeaksAmplitude_sum_sum,0;0
+non-horizontal saccade_sum,0.0310414940384827,non-horizontal saccade_sum,0;0
+saccadic amplitude_sum,0.0299561678548031,saccadic amplitude_sum,0;0
+fixation_PupilPeaksAmplitude_max_sum,0.0293049322781344,fixation_PupilPeaksAmplitude_max_sum,0;0
+Sub-scanEntropy_min,0.0261107846471952,Sub-scanEntropy_min,0;0
+fixation_PupilSize_median_sum,0.0237818089618026,fixation_PupilSize_median_sum,0;0
+Sub-scanAverageWeightedDegree_sum,0.022952748827266,Sub-scanAverageWeightedDegree_sum,0;0
+Fixation Count_sum,0.0139394682403687,Fixation Count_sum,0;0
+fixation_PupilSize_mean_sum,0.0136632879516132,fixation_PupilSize_mean_sum,0;0
+Sub-scanDensity_sum,0.0072035655058043,Sub-scanDensity_sum,0;0
+horizontal saccade_sum,0.2445144662715009,horizontal saccade_sum,1;0
+fixation_PupilSize_max_sum,0.1068994057971282,fixation_PupilSize_max_sum,1;0
+fixation_PupilSize_min_sum,0.0597374940922592,fixation_PupilSize_min_sum,1;0
+fixation_PupilPeaksAmplitude_median_sum,0.0507838138298678,fixation_PupilPeaksAmplitude_median_sum,1;0
+saccadic amplitude_sum,0.0490812622040683,saccadic amplitude_sum,1;0
+Sub-scanNtranstions_sum,0.0483339075049771,Sub-scanNtranstions_sum,1;0
+Sub-scanNUniqueVisits_sum,0.0473315330876491,Sub-scanNUniqueVisits_sum,1;0
+Fixation Count 250_sum,0.0462720832458535,Fixation Count 250_sum,1;0
+horizontal saccade_mean,0.0461216325782403,horizontal saccade_mean,1;0
+Sub-scanNUniqueVisits_std,0.0441339247234744,Sub-scanNUniqueVisits_std,1;0
+fixation_PupilPeaksAmplitude_max_sum,0.0382192643525572,fixation_PupilPeaksAmplitude_max_sum,1;0
+fixation_PupilSize_std_sum,0.0371859436570183,fixation_PupilSize_std_sum,1;0
+Fixation Duration_sum,0.0353981204749562,Fixation Duration_sum,1;0
+Sub-scanNUniqueVisits_min,0.0267586926384608,Sub-scanNUniqueVisits_min,1;0
+fixation_PupilPeaksAmplitude_sum_sum,0.0263656972616783,fixation_PupilPeaksAmplitude_sum_sum,1;0
+fixation_PupilPeaksAmplitude_mean_sum,0.025860465116279,fixation_PupilPeaksAmplitude_mean_sum,1;0
+non-horizontal saccade_sum,0.0258155736493238,non-horizontal saccade_sum,1;0
+Fixation Count_sum,0.0184046351047152,Fixation Count_sum,1;0
+Sub-scanDensity_sum,0.0161498708010335,Sub-scanDensity_sum,1;0
+Sub-scanAverageWeightedDegree_sum,0.0066322136089577,Sub-scanAverageWeightedDegree_sum,1;0
+fixation_PupilSize_std_sum,0.3286681510141597,fixation_PupilSize_std_sum,2;0
+fixation_PupilSize_min_sum,0.0676767574048902,fixation_PupilSize_min_sum,2;0
+fixation_PupilPeaksAmplitude_max_sum,0.0640380936238989,fixation_PupilPeaksAmplitude_max_sum,2;0
+fixation_PupilPeaksAmplitude_min_sum,0.0622273484698022,fixation_PupilPeaksAmplitude_min_sum,2;0
+fixation_NumberOfPupilPeaks_sum,0.0490740850931489,fixation_NumberOfPupilPeaks_sum,2;0
+saccadic amplitude_sum,0.0484368328045405,saccadic amplitude_sum,2;0
+Sub-scanNUniqueVisits_sum,0.0456200675801881,Sub-scanNUniqueVisits_sum,2;0
+fixation_NumberOfPupilPeaks_mean,0.0420786232805925,fixation_NumberOfPupilPeaks_mean,2;0
+horizontal saccade_std,0.0390336328756344,horizontal saccade_std,2;0
+fixation_PupilSize_max_sum,0.0387453493465187,fixation_PupilSize_max_sum,2;0
+fixation_PupilPeaksAmplitude_mean_sum,0.0341843562392235,fixation_PupilPeaksAmplitude_mean_sum,2;0
+Sub-scanEntropy_sum,0.0328021891844836,Sub-scanEntropy_sum,2;0
+Fixation Duration 250_sum,0.029911562755941,Fixation Duration 250_sum,2;0
+fixation_PupilPeaksAmplitude_median_sum,0.0249860805472075,fixation_PupilPeaksAmplitude_median_sum,2;0
+Sub-scanAverageWeightedDegree_sum,0.0184425275652089,Sub-scanAverageWeightedDegree_sum,2;0
+horizontal saccade_sum,0.0181092443055193,horizontal saccade_sum,2;0
+fixation_PupilPeaksAmplitude_sum_sum,0.0158178007390041,fixation_PupilPeaksAmplitude_sum_sum,2;0
+non-horizontal saccade_sum,0.0138249088005317,non-horizontal saccade_sum,2;0
+Sub-scanDensity_sum,0.01339614344781,Sub-scanDensity_sum,2;0
+Fixation Count_sum,0.0129262449216955,Fixation Count_sum,2;0
+Fixation Count_sum,0.2229827852860663,Fixation Count_sum,3;0
+fixation_PupilSize_std_sum,0.1299233637081409,fixation_PupilSize_std_sum,3;0
+Fixation Duration 250_min,0.0920630209823578,Fixation Duration 250_min,3;0
+fixation_PupilSize_max_sum,0.0751756462464166,fixation_PupilSize_max_sum,3;0
+non-horizontal saccade_std,0.0651837674751366,non-horizontal saccade_std,3;0
+Sub-scanEntropy_sum,0.0547428271771468,Sub-scanEntropy_sum,3;0
+fixation_PupilSize_sum_sum,0.0532123909310419,fixation_PupilSize_sum_sum,3;0
+Fixation Duration_sum,0.0392187806774846,Fixation Duration_sum,3;0
+fixation_PupilPeaksAmplitude_median_sum,0.0379114189537182,fixation_PupilPeaksAmplitude_median_sum,3;0
+fixation_NumberOfPupilPeaks_sum,0.0354541042670832,fixation_NumberOfPupilPeaks_sum,3;0
+horizontal saccade_sum,0.0352263626362166,horizontal saccade_sum,3;0
+horizontal saccade_std,0.0325689528976432,horizontal saccade_std,3;0
+fixation_PupilPeaksAmplitude_sum_sum,0.0321669341993109,fixation_PupilPeaksAmplitude_sum_sum,3;0
+fixation_PupilPeaksAmplitude_max_sum,0.022498383637235,fixation_PupilPeaksAmplitude_max_sum,3;0
+Sub-scanAverageWeightedDegree_sum,0.0211270729450301,Sub-scanAverageWeightedDegree_sum,3;0
+fixation_PupilSize_min_sum,0.0141077682266793,fixation_PupilSize_min_sum,3;0
+fixation_PupilSize_mean_sum,0.0129887304672405,fixation_PupilSize_mean_sum,3;0
+non-horizontal saccade_sum,0.0094510731726725,non-horizontal saccade_sum,3;0
+Sub-scanDensity_sum,0.007977301669995,Sub-scanDensity_sum,3;0
+fixation_PupilSize_median_sum,0.0060193144433832,fixation_PupilSize_median_sum,3;0
+fixation_PupilPeaksAmplitude_mean_sum,0.2345723939320032,fixation_PupilPeaksAmplitude_mean_sum,4;0
+fixation_PupilSize_std_sum,0.0885704688231535,fixation_PupilSize_std_sum,4;0
+Sub-scanEntropy_sum,0.0846492337334317,Sub-scanEntropy_sum,4;0
+Fixation Duration_sum,0.0646963119002047,Fixation Duration_sum,4;0
+fixation_PupilPeaksAmplitude_min_sum,0.051806403048869,fixation_PupilPeaksAmplitude_min_sum,4;0
+fixation_PupilSize_max_sum,0.0460889866719619,fixation_PupilSize_max_sum,4;0
+fixation_PupilPeaksAmplitude_sum_sum,0.0456946920772778,fixation_PupilPeaksAmplitude_sum_sum,4;0
+Fixation Count_sum,0.0415027096301873,Fixation Count_sum,4;0
+fixation_PupilPeaksAmplitude_median_sum,0.0414979585066956,fixation_PupilPeaksAmplitude_median_sum,4;0
+Sub-scanAverageWeightedDegree_sum,0.0414223236679968,Sub-scanAverageWeightedDegree_sum,4;0
+fixation_PupilSize_sum_sum,0.0397109496874973,fixation_PupilSize_sum_sum,4;0
+fixation_NumberOfPupilPeaks_sum,0.0390515503368523,fixation_NumberOfPupilPeaks_sum,4;0
+fixation_PupilSize_median_sum,0.0357206229949285,fixation_PupilSize_median_sum,4;0
+fixation_PupilSize_mean_sum,0.0325224261384689,fixation_PupilSize_mean_sum,4;0
+horizontal saccade_sum,0.0294495877191003,horizontal saccade_sum,4;0
+Sub-scanDensity_sum,0.0234101575450636,Sub-scanDensity_sum,4;0
+fixation_PupilPeaksAmplitude_std_sum,0.0224718723535263,fixation_PupilPeaksAmplitude_std_sum,4;0
+Fixation Count 250_sum,0.0199674612668033,Fixation Count 250_sum,4;0
+non-horizontal saccade_sum,0.0117552892148765,non-horizontal saccade_sum,4;0
+fixation_PupilPeaksAmplitude_max_sum,0.0054386007511007,fixation_PupilPeaksAmplitude_max_sum,4;0
+fixation_PupilSize_std_sum,0.3099918755544906,fixation_PupilSize_std_sum,5;0
+Fixation Duration_sum,0.0941744991303012,Fixation Duration_sum,5;0
+saccadic amplitude_sum,0.0701454974415532,saccadic amplitude_sum,5;0
+fixation_PupilPeaksAmplitude_min_sum,0.0606382407055198,fixation_PupilPeaksAmplitude_min_sum,5;0
+fixation_PupilPeaksAmplitude_mean_sum,0.0484072556272507,fixation_PupilPeaksAmplitude_mean_sum,5;0
+Sub-scanNtranstions_sum,0.0437166619417646,Sub-scanNtranstions_sum,5;0
+fixation_NumberOfPupilPeaks_sum,0.0437085911116141,fixation_NumberOfPupilPeaks_sum,5;0
+Sub-scanDensity_sum,0.0413787804942359,Sub-scanDensity_sum,5;0
+fixation_PupilPeaksAmplitude_sum_sum,0.0407183105378974,fixation_PupilPeaksAmplitude_sum_sum,5;0
+Sub-scanNUniqueVisits_sum,0.0341915515083429,Sub-scanNUniqueVisits_sum,5;0
+Sub-scanDensity_max,0.0325154143988129,Sub-scanDensity_max,5;0
+horizontal saccade_sum,0.0320202473948949,horizontal saccade_sum,5;0
+Sub-scanAverageWeightedDegree_sum,0.0293659766470042,Sub-scanAverageWeightedDegree_sum,5;0
+non-horizontal saccade_sum,0.0282308174103519,non-horizontal saccade_sum,5;0
+fixation_PupilSize_min_sum,0.025637860582615,fixation_PupilSize_min_sum,5;0
+fixation_PupilPeaksAmplitude_median_sum,0.02037414051568,fixation_PupilPeaksAmplitude_median_sum,5;0
+fixation_PupilPeaksAmplitude_max_sum,0.0203004218143407,fixation_PupilPeaksAmplitude_max_sum,5;0
+fixation_PupilSize_median_sum,0.0142809661963996,fixation_PupilSize_median_sum,5;0
+Fixation Count_sum,0.0053229798387965,Fixation Count_sum,5;0
+fixation_PupilSize_max_sum,0.0048799111481327,fixation_PupilSize_max_sum,5;0
+Sub-scanDensity_sum,0.2796854448580589,Sub-scanDensity_sum,6;0
+fixation_PupilPeaksAmplitude_min_sum,0.0706875157839113,fixation_PupilPeaksAmplitude_min_sum,6;0
+fixation_PupilSize_max_sum,0.0668932429047372,fixation_PupilSize_max_sum,6;0
+fixation_PupilPeaksAmplitude_median_sum,0.0668414453220306,fixation_PupilPeaksAmplitude_median_sum,6;0
+Sub-scanEntropy_sum,0.0624562335638942,Sub-scanEntropy_sum,6;0
+Fixation Duration_sum,0.0604894155218971,Fixation Duration_sum,6;0
+Sub-scanAverageWeightedDegree_sum,0.0535779577365548,Sub-scanAverageWeightedDegree_sum,6;0
+fixation_PupilSize_sum_sum,0.0451625618458202,fixation_PupilSize_sum_sum,6;0
+Fixation Duration 250_sum,0.0414715321362462,Fixation Duration 250_sum,6;0
+fixation_NumberOfPupilPeaks_sum,0.0401609708579287,fixation_NumberOfPupilPeaks_sum,6;0
+saccadic amplitude_sum,0.033835130796986,saccadic amplitude_sum,6;0
+Fixation Count_sum,0.030516187887248,Fixation Count_sum,6;0
+non-horizontal saccade_sum,0.0287563153468771,non-horizontal saccade_sum,6;0
+fixation_PupilSize_mean_sum,0.0267575162986721,fixation_PupilSize_mean_sum,6;0
+fixation_PupilSize_std_sum,0.0263913765971629,fixation_PupilSize_std_sum,6;0
+horizontal saccade_sum,0.0208214016177563,horizontal saccade_sum,6;0
+fixation_PupilPeaksAmplitude_max_sum,0.0143009550960195,fixation_PupilPeaksAmplitude_max_sum,6;0
+fixation_PupilPeaksAmplitude_sum_sum,0.0126901377022755,fixation_PupilPeaksAmplitude_sum_sum,6;0
+fixation_PupilSize_median_sum,0.0105189499935767,fixation_PupilSize_median_sum,6;0
+Sub-scanNtranstions_sum,0.0079857081323455,Sub-scanNtranstions_sum,6;0
+horizontal saccade_sum,0.2472469171294285,horizontal saccade_sum,7;0
+fixation_PupilSize_max_sum,0.0850701644580202,fixation_PupilSize_max_sum,7;0
+fixation_PupilPeaksAmplitude_sum_sum,0.073335126977755,fixation_PupilPeaksAmplitude_sum_sum,7;0
+Sub-scanEntropy_sum,0.0732075252680559,Sub-scanEntropy_sum,7;0
+horizontal saccade_std,0.060400191540966,horizontal saccade_std,7;0
+Sub-scanAverageWeightedDegree_sum,0.0532092495610447,Sub-scanAverageWeightedDegree_sum,7;0
+fixation_PupilPeaksAmplitude_std_sum,0.0508854448315522,fixation_PupilPeaksAmplitude_std_sum,7;0
+Fixation Duration 250_sum,0.042855389023615,Fixation Duration 250_sum,7;0
+saccadic amplitude_sum,0.0399648752480767,saccadic amplitude_sum,7;0
+fixation_PupilSize_std_sum,0.0380076418151726,fixation_PupilSize_std_sum,7;0
+fixation_PupilSize_min_sum,0.0337434851750511,fixation_PupilSize_min_sum,7;0
+fixation_NumberOfPupilPeaks_sum,0.0318433749105932,fixation_NumberOfPupilPeaks_sum,7;0
+fixation_PupilSize_sum_sum,0.0314289196642137,fixation_PupilSize_sum_sum,7;0
+horizontal saccade_mean,0.0288471272255374,horizontal saccade_mean,7;0
+Sub-scanDensity_sum,0.0283301547694446,Sub-scanDensity_sum,7;0
+Fixation Duration_sum,0.0252914010931088,Fixation Duration_sum,7;0
+Fixation Count_sum,0.02213513183713,Fixation Count_sum,7;0
+fixation_PupilSize_median_sum,0.0160933379199633,fixation_PupilSize_median_sum,7;0
+IsfixationInSpatialTemporalCluster_max,0.0098532815904139,IsfixationInSpatialTemporalCluster_max,7;0
+fixation_PupilSize_mean_sum,0.008251259960856,fixation_PupilSize_mean_sum,7;0
+fixation_PupilSize_std_sum,0.251302500036526,fixation_PupilSize_std_sum,8;0
+Sub-scanEntropy_sum,0.0856333372216965,Sub-scanEntropy_sum,8;0
+Fixation Duration_sum,0.0786952528953423,Fixation Duration_sum,8;0
+saccadic amplitude_sum,0.0626058021985297,saccadic amplitude_sum,8;0
+non-horizontal saccade_mean,0.0612866271984247,non-horizontal saccade_mean,8;0
+fixation_PupilSize_max_sum,0.0604135927893866,fixation_PupilSize_max_sum,8;0
+Sub-scanAverageWeightedDegree_sum,0.055631329946228,Sub-scanAverageWeightedDegree_sum,8;0
+horizontal saccade_mean,0.0536013659415902,horizontal saccade_mean,8;0
+Fixation Count_sum,0.0412401390886741,Fixation Count_sum,8;0
+Fixation Count 250_mean,0.0379118596621969,Fixation Count 250_mean,8;0
+fixation_PupilSize_median_sum,0.0331634000146058,fixation_PupilSize_median_sum,8;0
+fixation_NumberOfPupilPeaks_sum,0.0279362096022799,fixation_NumberOfPupilPeaks_sum,8;0
+fixation_PupilPeaksAmplitude_mean_sum,0.0272208479027703,fixation_PupilPeaksAmplitude_mean_sum,8;0
+fixation_PupilPeaksAmplitude_median_sum,0.0257654134418385,fixation_PupilPeaksAmplitude_median_sum,8;0
+fixation_PupilSize_min_sum,0.0228169281459564,fixation_PupilSize_min_sum,8;0
+fixation_PupilSize_mean_sum,0.0215957016054785,fixation_PupilSize_mean_sum,8;0
+Sub-scanDensity_sum,0.0172837340418445,Sub-scanDensity_sum,8;0
+fixation_PupilPeaksAmplitude_sum_sum,0.0142364476588127,fixation_PupilPeaksAmplitude_sum_sum,8;0
+fixation_PupilPeaksAmplitude_max_sum,0.0128870962626369,fixation_PupilPeaksAmplitude_max_sum,8;0
+horizontal saccade_sum,0.0087724143451809,horizontal saccade_sum,8;0
+fixation_PupilSize_std_sum,0.2415324236076975,fixation_PupilSize_std_sum,9;0
+fixation_PupilPeaksAmplitude_sum_sum,0.0887727451803758,fixation_PupilPeaksAmplitude_sum_sum,9;0
+Sub-scanNUniqueVisits_std,0.071829502480212,Sub-scanNUniqueVisits_std,9;0
+non-horizontal saccade_sum,0.0715044274082981,non-horizontal saccade_sum,9;0
+Fixation Duration_sum,0.0586830346745735,Fixation Duration_sum,9;0
+Sub-scanEntropy_mean,0.0551792149709145,Sub-scanEntropy_mean,9;0
+fixation_PupilPeaksAmplitude_median_sum,0.0523400696212726,fixation_PupilPeaksAmplitude_median_sum,9;0
+fixation_NumberOfPupilPeaks_sum,0.0481634809933197,fixation_NumberOfPupilPeaks_sum,9;0
+horizontal saccade_sum,0.044869441962273,horizontal saccade_sum,9;0
+fixation_PupilSize_max_sum,0.035155655696622,fixation_PupilSize_max_sum,9;0
+fixation_PupilSize_sum_sum,0.031728069882198,fixation_PupilSize_sum_sum,9;0
+fixation_PupilPeaksAmplitude_max_sum,0.0308577706412173,fixation_PupilPeaksAmplitude_max_sum,9;0
+Sub-scanNtranstions_sum,0.0305875338160322,Sub-scanNtranstions_sum,9;0
+fixation_PupilSize_mean_sum,0.0271638951877047,fixation_PupilSize_mean_sum,9;0
+saccadic amplitude_sum,0.0256039915112938,saccadic amplitude_sum,9;0
+Fixation Count_sum,0.0246222850001503,Fixation Count_sum,9;0
+fixation_PupilPeaksAmplitude_mean_sum,0.0242096809484027,fixation_PupilPeaksAmplitude_mean_sum,9;0
+Sub-scanAverageWeightedDegree_sum,0.0224782275754201,Sub-scanAverageWeightedDegree_sum,9;0
+fixation_PupilSize_median_sum,0.0104923583658307,fixation_PupilSize_median_sum,9;0
+Sub-scanDensity_sum,0.0042261904761904,Sub-scanDensity_sum,9;0
+fixation_PupilSize_std_sum,0.2758961459150449,fixation_PupilSize_std_sum,0;1
+Sub-scanNUniqueVisits_sum,0.0873453639665499,Sub-scanNUniqueVisits_sum,0;1
+fixation_PupilSize_max_sum,0.0835758185725529,fixation_PupilSize_max_sum,0;1
+saccadic amplitude_sum,0.0797350800793295,saccadic amplitude_sum,0;1
+fixation_PupilPeaksAmplitude_std_sum,0.0470484552346109,fixation_PupilPeaksAmplitude_std_sum,0;1
+fixation_PupilPeaksAmplitude_max_sum,0.038136917908675,fixation_PupilPeaksAmplitude_max_sum,0;1
+Fixation Duration_sum,0.0374074550248143,Fixation Duration_sum,0;1
+fixation_PupilPeaksAmplitude_sum_sum,0.037282929809593,fixation_PupilPeaksAmplitude_sum_sum,0;1
+Sub-scanDensity_sum,0.0370889603741472,Sub-scanDensity_sum,0;1
+fixation_PupilPeaksAmplitude_mean_sum,0.0356723091513615,fixation_PupilPeaksAmplitude_mean_sum,0;1
+Sub-scanNUniqueVisits_min,0.0353287340463997,Sub-scanNUniqueVisits_min,0;1
+fixation_PupilSize_median_sum,0.0334058667112169,fixation_PupilSize_median_sum,0;1
+non-horizontal saccade_sum,0.0331575625147112,non-horizontal saccade_sum,0;1
+Fixation Count_sum,0.0308991696244424,Fixation Count_sum,0;1
+fixation_PupilSize_mean_sum,0.0305798396288309,fixation_PupilSize_mean_sum,0;1
+Sub-scanAverageWeightedDegree_sum,0.0303068054284853,Sub-scanAverageWeightedDegree_sum,0;1
+fixation_NumberOfPupilPeaks_sum,0.0251645984534276,fixation_NumberOfPupilPeaks_sum,0;1
+Sub-scanEntropy_min,0.0094231538933179,Sub-scanEntropy_min,0;1
+horizontal saccade_sum,0.0081407231062662,horizontal saccade_sum,0;1
+fixation_PupilSize_min_sum,0.0044041105562218,fixation_PupilSize_min_sum,0;1
+horizontal saccade_sum,0.257124034650301,horizontal saccade_sum,1;1
+Sub-scanNUniqueVisits_mean,0.0995945457301676,Sub-scanNUniqueVisits_mean,1;1
+fixation_PupilSize_max_sum,0.0921949185434149,fixation_PupilSize_max_sum,1;1
+fixation_PupilSize_min_sum,0.0756575830950093,fixation_PupilSize_min_sum,1;1
+Sub-scanNUniqueVisits_std,0.0677820232050509,Sub-scanNUniqueVisits_std,1;1
+fixation_PupilSize_std_sum,0.0671061050535462,fixation_PupilSize_std_sum,1;1
+Fixation Duration_sum,0.0398771560249928,Fixation Duration_sum,1;1
+saccadic amplitude_sum,0.0372454556507707,saccadic amplitude_sum,1;1
+Sub-scanAverageWeightedDegree_sum,0.0327513752737347,Sub-scanAverageWeightedDegree_sum,1;1
+fixation_PupilPeaksAmplitude_std_sum,0.03266138885833,fixation_PupilPeaksAmplitude_std_sum,1;1
+Sub-scanDensity_sum,0.030868952052452,Sub-scanDensity_sum,1;1
+fixation_PupilPeaksAmplitude_sum_sum,0.0306456085515976,fixation_PupilPeaksAmplitude_sum_sum,1;1
+Sub-scanNUniqueVisits_sum,0.0230597712675002,Sub-scanNUniqueVisits_sum,1;1
+horizontal saccade_std,0.0228618297109767,horizontal saccade_std,1;1
+Fixation Count_sum,0.0224715878571469,Fixation Count_sum,1;1
+fixation_PupilPeaksAmplitude_max_sum,0.0224304665399422,fixation_PupilPeaksAmplitude_max_sum,1;1
+fixation_PupilPeaksAmplitude_median_sum,0.0157473216876396,fixation_PupilPeaksAmplitude_median_sum,1;1
+fixation_PupilPeaksAmplitude_mean_sum,0.014778255737631,fixation_PupilPeaksAmplitude_mean_sum,1;1
+Fixation Count 250_sum,0.0097425387883187,Fixation Count 250_sum,1;1
+horizontal saccade_mean,0.0053990817214764,horizontal saccade_mean,1;1
+fixation_PupilSize_std_sum,0.3244787888952837,fixation_PupilSize_std_sum,2;1
+fixation_PupilPeaksAmplitude_max_sum,0.0618615316006514,fixation_PupilPeaksAmplitude_max_sum,2;1
+Sub-scanDensity_sum,0.0615037003294129,Sub-scanDensity_sum,2;1
+fixation_PupilPeaksAmplitude_min_sum,0.0567521163658482,fixation_PupilPeaksAmplitude_min_sum,2;1
+fixation_PupilPeaksAmplitude_sum_sum,0.0545032313571363,fixation_PupilPeaksAmplitude_sum_sum,2;1
+fixation_PupilPeaksAmplitude_median_sum,0.049524008415112,fixation_PupilPeaksAmplitude_median_sum,2;1
+fixation_PupilSize_min_sum,0.0416900434735553,fixation_PupilSize_min_sum,2;1
+Fixation Count_sum,0.0414234565148894,Fixation Count_sum,2;1
+saccadic amplitude_sum,0.0407820542719594,saccadic amplitude_sum,2;1
+non-horizontal saccade_sum,0.0406285787034165,non-horizontal saccade_sum,2;1
+Sub-scanAverageWeightedDegree_sum,0.0352523104330615,Sub-scanAverageWeightedDegree_sum,2;1
+fixation_NumberOfPupilPeaks_sum,0.0345185445827039,fixation_NumberOfPupilPeaks_sum,2;1
+fixation_PupilSize_median_sum,0.034175070910513,fixation_PupilSize_median_sum,2;1
+Fixation Duration_sum,0.028866079448695,Fixation Duration_sum,2;1
+fixation_PupilPeaksAmplitude_std_sum,0.0270158681903238,fixation_PupilPeaksAmplitude_std_sum,2;1
+Sub-scanNUniqueVisits_sum,0.021419535463263,Sub-scanNUniqueVisits_sum,2;1
+fixation_PupilSize_max_sum,0.0190116485109548,fixation_PupilSize_max_sum,2;1
+fixation_PupilPeaksAmplitude_mean_sum,0.0157454343910825,fixation_PupilPeaksAmplitude_mean_sum,2;1
+fixation_PupilSize_sum_sum,0.0065189847990303,fixation_PupilSize_sum_sum,2;1
+fixation_PupilSize_mean_sum,0.004329013343106,fixation_PupilSize_mean_sum,2;1
+Fixation Count_sum,0.2225642946065066,Fixation Count_sum,3;1
+Fixation Duration_sum,0.0885610564084722,Fixation Duration_sum,3;1
+fixation_PupilSize_std_sum,0.0847598887997394,fixation_PupilSize_std_sum,3;1
+fixation_PupilSize_min_sum,0.0560409452288804,fixation_PupilSize_min_sum,3;1
+Sub-scanNUniqueVisits_sum,0.0514820826111834,Sub-scanNUniqueVisits_sum,3;1
+Sub-scanDensity_sum,0.0462694771204958,Sub-scanDensity_sum,3;1
+horizontal saccade_std,0.043588769426759,horizontal saccade_std,3;1
+fixation_PupilPeaksAmplitude_min_sum,0.0431087013110651,fixation_PupilPeaksAmplitude_min_sum,3;1
+fixation_NumberOfPupilPeaks_sum,0.040946566831394,fixation_NumberOfPupilPeaks_sum,3;1
+fixation_PupilPeaksAmplitude_max_sum,0.0369171297299646,fixation_PupilPeaksAmplitude_max_sum,3;1
+fixation_PupilSize_mean_sum,0.0365212965799974,fixation_PupilSize_mean_sum,3;1
+Fixation Count 250_mean,0.0360422194956055,Fixation Count 250_mean,3;1
+fixation_PupilSize_max_sum,0.0353203391186131,fixation_PupilSize_max_sum,3;1
+Sub-scanAverageWeightedDegree_sum,0.0349429224700823,Sub-scanAverageWeightedDegree_sum,3;1
+horizontal saccade_sum,0.0334047978355623,horizontal saccade_sum,3;1
+fixation_PupilPeaksAmplitude_sum_sum,0.0284204940381532,fixation_PupilPeaksAmplitude_sum_sum,3;1
+fixation_PupilSize_median_sum,0.0273537978488239,fixation_PupilSize_median_sum,3;1
+non-horizontal saccade_sum,0.023423869146728,non-horizontal saccade_sum,3;1
+fixation_PupilSize_sum_sum,0.0187859137410968,fixation_PupilSize_sum_sum,3;1
+fixation_PupilPeaksAmplitude_median_sum,0.0115454376508762,fixation_PupilPeaksAmplitude_median_sum,3;1
+fixation_PupilPeaksAmplitude_min_sum,0.2309864736475957,fixation_PupilPeaksAmplitude_min_sum,4;1
+Fixation Duration_sum,0.09160215965818,Fixation Duration_sum,4;1
+saccadic amplitude_sum,0.0806805957015778,saccadic amplitude_sum,4;1
+fixation_PupilSize_std_sum,0.0604686968950886,fixation_PupilSize_std_sum,4;1
+fixation_PupilSize_min_sum,0.0544759025064063,fixation_PupilSize_min_sum,4;1
+horizontal saccade_sum,0.0528301852903544,horizontal saccade_sum,4;1
+fixation_PupilPeaksAmplitude_sum_sum,0.0500064075936274,fixation_PupilPeaksAmplitude_sum_sum,4;1
+Sub-scanEntropy_sum,0.0478304225495405,Sub-scanEntropy_sum,4;1
+fixation_PupilSize_sum_sum,0.0402687646087606,fixation_PupilSize_sum_sum,4;1
+fixation_PupilPeaksAmplitude_std_sum,0.0391836633550962,fixation_PupilPeaksAmplitude_std_sum,4;1
+fixation_NumberOfPupilPeaks_sum,0.0359918011565691,fixation_NumberOfPupilPeaks_sum,4;1
+Sub-scanNtranstions_mean,0.0349605475284615,Sub-scanNtranstions_mean,4;1
+fixation_PupilSize_max_sum,0.0345200926020781,fixation_PupilSize_max_sum,4;1
+fixation_PupilSize_median_sum,0.0334081041622601,fixation_PupilSize_median_sum,4;1
+Sub-scanAverageWeightedDegree_sum,0.0265094578791542,Sub-scanAverageWeightedDegree_sum,4;1
+Sub-scanDensity_sum,0.0248769426279122,Sub-scanDensity_sum,4;1
+fixation_PupilPeaksAmplitude_mean_sum,0.0244825486552844,fixation_PupilPeaksAmplitude_mean_sum,4;1
+Fixation Count_sum,0.0235834521485235,Fixation Count_sum,4;1
+fixation_PupilSize_mean_sum,0.0086959444131707,fixation_PupilSize_mean_sum,4;1
+fixation_PupilPeaksAmplitude_max_sum,0.0046378370203577,fixation_PupilPeaksAmplitude_max_sum,4;1
+Sub-scanDensity_sum,0.2582786939505192,Sub-scanDensity_sum,5;1
+fixation_PupilSize_std_sum,0.0905014771706733,fixation_PupilSize_std_sum,5;1
+Sub-scanNUniqueVisits_sum,0.0661193878485875,Sub-scanNUniqueVisits_sum,5;1
+fixation_PupilPeaksAmplitude_min_sum,0.0612756238776575,fixation_PupilPeaksAmplitude_min_sum,5;1
+Fixation Duration_sum,0.0589310189885829,Fixation Duration_sum,5;1
+fixation_NumberOfPupilPeaks_sum,0.0579113100456689,fixation_NumberOfPupilPeaks_sum,5;1
+fixation_PupilSize_max_sum,0.0541843835356143,fixation_PupilSize_max_sum,5;1
+Sub-scanNtranstions_sum,0.0522646378114724,Sub-scanNtranstions_sum,5;1
+horizontal saccade_sum,0.0460811894613405,horizontal saccade_sum,5;1
+fixation_PupilSize_min_sum,0.037742034822837,fixation_PupilSize_min_sum,5;1
+non-horizontal saccade_sum,0.0374751828726375,non-horizontal saccade_sum,5;1
+fixation_PupilSize_sum_sum,0.0352782396430392,fixation_PupilSize_sum_sum,5;1
+saccadic amplitude_sum,0.0270061433481884,saccadic amplitude_sum,5;1
+Sub-scanAverageWeightedDegree_sum,0.0226653547455063,Sub-scanAverageWeightedDegree_sum,5;1
+Fixation Count_sum,0.0202570729163891,Fixation Count_sum,5;1
+fixation_PupilPeaksAmplitude_sum_sum,0.0191481462868822,fixation_PupilPeaksAmplitude_sum_sum,5;1
+fixation_PupilPeaksAmplitude_max_sum,0.0160320418086199,fixation_PupilPeaksAmplitude_max_sum,5;1
+fixation_PupilSize_mean_sum,0.0143932211273768,fixation_PupilSize_mean_sum,5;1
+Fixation Count 250_sum,0.0123684837809382,Fixation Count 250_sum,5;1
+fixation_PupilSize_median_sum,0.0120863559574679,fixation_PupilSize_median_sum,5;1
+Fixation Count_sum,0.3079363785479849,Fixation Count_sum,6;1
+fixation_PupilSize_max_sum,0.1269553493060274,fixation_PupilSize_max_sum,6;1
+Sub-scanNUniqueVisits_sum,0.0696135034342483,Sub-scanNUniqueVisits_sum,6;1
+Sub-scanEntropy_sum,0.0598689349004634,Sub-scanEntropy_sum,6;1
+saccadic amplitude_sum,0.0590231328433094,saccadic amplitude_sum,6;1
+fixation_PupilSize_std_sum,0.0418649176900168,fixation_PupilSize_std_sum,6;1
+Sub-scanAverageWeightedDegree_sum,0.040422327927474,Sub-scanAverageWeightedDegree_sum,6;1
+fixation_PupilPeaksAmplitude_median_sum,0.0403507233733464,fixation_PupilPeaksAmplitude_median_sum,6;1
+fixation_PupilSize_median_sum,0.0374701390714914,fixation_PupilSize_median_sum,6;1
+Fixation Duration_sum,0.0362254303115392,Fixation Duration_sum,6;1
+fixation_NumberOfPupilPeaks_sum,0.0347211545852198,fixation_NumberOfPupilPeaks_sum,6;1
+fixation_PupilPeaksAmplitude_min_sum,0.0346861991674671,fixation_PupilPeaksAmplitude_min_sum,6;1
+fixation_PupilPeaksAmplitude_sum_sum,0.0274892541170218,fixation_PupilPeaksAmplitude_sum_sum,6;1
+Sub-scanNtranstions_sum,0.0248643285072296,Sub-scanNtranstions_sum,6;1
+Fixation Count 250_sum,0.0175616394492475,Fixation Count 250_sum,6;1
+Sub-scanDensity_sum,0.0138648735190521,Sub-scanDensity_sum,6;1
+horizontal saccade_sum,0.0096473171401125,horizontal saccade_sum,6;1
+fixation_PupilPeaksAmplitude_mean_sum,0.008233841086867,fixation_PupilPeaksAmplitude_mean_sum,6;1
+fixation_PupilPeaksAmplitude_max_sum,0.0063187106414772,fixation_PupilPeaksAmplitude_max_sum,6;1
+IsfixationInSpatialCluster_sum,0.0028818443804034,IsfixationInSpatialCluster_sum,6;1
+Fixation Count_sum,0.2528875364194063,Fixation Count_sum,7;1
+fixation_PupilPeaksAmplitude_mean_sum,0.0722426158554833,fixation_PupilPeaksAmplitude_mean_sum,7;1
+horizontal saccade_sum,0.0680701469758854,horizontal saccade_sum,7;1
+no saccade_mean,0.0633462872524043,no saccade_mean,7;1
+saccadic amplitude_sum,0.055659112933663,saccadic amplitude_sum,7;1
+fixation_PupilSize_std_sum,0.0541347965528255,fixation_PupilSize_std_sum,7;1
+fixation_NumberOfPupilPeaks_mean,0.0505111778029405,fixation_NumberOfPupilPeaks_mean,7;1
+fixation_PupilSize_min_sum,0.0484673664115318,fixation_PupilSize_min_sum,7;1
+Fixation Duration 250_sum,0.0457077224648739,Fixation Duration 250_sum,7;1
+Sub-scanEntropy_sum,0.0456067574164223,Sub-scanEntropy_sum,7;1
+Fixation Duration_sum,0.0452783663326526,Fixation Duration_sum,7;1
+fixation_PupilSize_sum_sum,0.0343528833438743,fixation_PupilSize_sum_sum,7;1
+Sub-scanDensity_sum,0.0337104735658472,Sub-scanDensity_sum,7;1
+fixation_NumberOfPupilPeaks_sum,0.0296791881764107,fixation_NumberOfPupilPeaks_sum,7;1
+fixation_PupilPeaksAmplitude_sum_sum,0.0228536072109766,fixation_PupilPeaksAmplitude_sum_sum,7;1
+fixation_PupilSize_mean_sum,0.0196991378127088,fixation_PupilSize_mean_sum,7;1
+fixation_PupilSize_max_sum,0.0182328920969235,fixation_PupilSize_max_sum,7;1
+Sub-scanAverageWeightedDegree_sum,0.0180667571844106,Sub-scanAverageWeightedDegree_sum,7;1
+fixation_PupilPeaksAmplitude_std_sum,0.0139677067287918,fixation_PupilPeaksAmplitude_std_sum,7;1
+fixation_PupilPeaksAmplitude_max_sum,0.0075254674619663,fixation_PupilPeaksAmplitude_max_sum,7;1
+fixation_PupilSize_max_sum,0.2445687615462271,fixation_PupilSize_max_sum,8;1
+Sub-scanDensity_std,0.1518845237288816,Sub-scanDensity_std,8;1
+saccadic amplitude_sum,0.0763111675992907,saccadic amplitude_sum,8;1
+Sub-scanEntropy_mean,0.0615145319913511,Sub-scanEntropy_mean,8;1
+fixation_PupilSize_std_sum,0.0552099710659537,fixation_PupilSize_std_sum,8;1
+fixation_PupilPeaksAmplitude_sum_sum,0.0475726919729819,fixation_PupilPeaksAmplitude_sum_sum,8;1
+Fixation Duration_sum,0.0458075117126676,Fixation Duration_sum,8;1
+fixation_PupilSize_min_sum,0.0437088272282703,fixation_PupilSize_min_sum,8;1
+horizontal saccade_sum,0.0393225876777452,horizontal saccade_sum,8;1
+fixation_NumberOfPupilPeaks_sum,0.0362706759781117,fixation_NumberOfPupilPeaks_sum,8;1
+Sub-scanAverageWeightedDegree_sum,0.0352419579400171,Sub-scanAverageWeightedDegree_sum,8;1
+fixation_PupilSize_median_sum,0.027446779423392,fixation_PupilSize_median_sum,8;1
+fixation_PupilPeaksAmplitude_median_sum,0.0251400746813273,fixation_PupilPeaksAmplitude_median_sum,8;1
+Sub-scanDensity_sum,0.0224331007941288,Sub-scanDensity_sum,8;1
+fixation_PupilPeaksAmplitude_mean_sum,0.022356215166695,fixation_PupilPeaksAmplitude_mean_sum,8;1
+Fixation Count_sum,0.019931327542839,Fixation Count_sum,8;1
+fixation_PupilPeaksAmplitude_max_sum,0.0134856634655675,fixation_PupilPeaksAmplitude_max_sum,8;1
+fixation_PupilSize_sum_sum,0.0115034334140021,fixation_PupilSize_sum_sum,8;1
+SpaceTimeCluster_countUniqueClusters,0.0105693780354727,SpaceTimeCluster_countUniqueClusters,8;1
+fixation_PupilSize_mean_sum,0.0097208190350768,fixation_PupilSize_mean_sum,8;1
+fixation_PupilPeaksAmplitude_min_sum,0.250005932450047,fixation_PupilPeaksAmplitude_min_sum,9;1
+fixation_PupilSize_min_sum,0.07648084724351,fixation_PupilSize_min_sum,9;1
+fixation_PupilPeaksAmplitude_sum_sum,0.0759087992170904,fixation_PupilPeaksAmplitude_sum_sum,9;1
+saccadic amplitude_sum,0.0680042463255161,saccadic amplitude_sum,9;1
+Sub-scanNUniqueVisits_std,0.0671269224529076,Sub-scanNUniqueVisits_std,9;1
+fixation_PupilSize_std_sum,0.0624890859148945,fixation_PupilSize_std_sum,9;1
+fixation_NumberOfPupilPeaks_sum,0.0617212790769017,fixation_NumberOfPupilPeaks_sum,9;1
+horizontal saccade_sum,0.054847774862681,horizontal saccade_sum,9;1
+fixation_PupilSize_max_sum,0.042378339860964,fixation_PupilSize_max_sum,9;1
+fixation_PupilPeaksAmplitude_max_sum,0.0361156091774102,fixation_PupilPeaksAmplitude_max_sum,9;1
+Fixation Duration_sum,0.0349700600082655,Fixation Duration_sum,9;1
+Fixation Count_sum,0.031920859375971,Fixation Count_sum,9;1
+Sub-scanDensity_sum,0.030272366944524,Sub-scanDensity_sum,9;1
+Sub-scanNUniqueVisits_sum,0.0238760283608986,Sub-scanNUniqueVisits_sum,9;1
+fixation_PupilPeaksAmplitude_mean_sum,0.0190505118433278,fixation_PupilPeaksAmplitude_mean_sum,9;1
+Sub-scanAverageWeightedDegree_sum,0.0189675946525978,Sub-scanAverageWeightedDegree_sum,9;1
+fixation_PupilPeaksAmplitude_median_sum,0.0179320955887958,fixation_PupilPeaksAmplitude_median_sum,9;1
+non-horizontal saccade_sum,0.0154486893589919,non-horizontal saccade_sum,9;1
+fixation_PupilSize_sum_sum,0.0075445709109736,fixation_PupilSize_sum_sum,9;1
+fixation_PupilSize_median_sum,0.0049383863737308,fixation_PupilSize_median_sum,9;1
+fixation_PupilSize_std_sum,0.284093679138322,fixation_PupilSize_std_sum,0;2
+fixation_PupilPeaksAmplitude_std_sum,0.0775335419233153,fixation_PupilPeaksAmplitude_std_sum,0;2
+fixation_PupilSize_sum_sum,0.0762664978618395,fixation_PupilSize_sum_sum,0;2
+Fixation Duration_sum,0.0587814015998491,Fixation Duration_sum,0;2
+Sub-scanNUniqueVisits_sum,0.0569784433567986,Sub-scanNUniqueVisits_sum,0;2
+fixation_PupilSize_max_sum,0.0565068948474001,fixation_PupilSize_max_sum,0;2
+saccadic amplitude_sum,0.0545706679715273,saccadic amplitude_sum,0;2
+fixation_PupilPeaksAmplitude_max_sum,0.050248114517305,fixation_PupilPeaksAmplitude_max_sum,0;2
+fixation_PupilPeaksAmplitude_mean_sum,0.0444226941689047,fixation_PupilPeaksAmplitude_mean_sum,0;2
+non-horizontal saccade_sum,0.0389769797562536,non-horizontal saccade_sum,0;2
+fixation_PupilSize_min_sum,0.0380131972092747,fixation_PupilSize_min_sum,0;2
+Fixation Count 250_sum,0.030211543634313,Fixation Count 250_sum,0;2
+Sub-scanAverageWeightedDegree_max,0.0268594361494384,Sub-scanAverageWeightedDegree_max,0;2
+Fixation Count_sum,0.0262524576025719,Fixation Count_sum,0;2
+fixation_NumberOfPupilPeaks_sum,0.0254828005907285,fixation_NumberOfPupilPeaks_sum,0;2
+fixation_PupilSize_median_sum,0.025172380355651,fixation_PupilSize_median_sum,0;2
+Sub-scanAverageWeightedDegree_sum,0.0187838310829382,Sub-scanAverageWeightedDegree_sum,0;2
+Sub-scanDensity_sum,0.0068226752822341,Sub-scanDensity_sum,0;2
+fixation_PupilSize_mean_sum,0.0040227629513343,fixation_PupilSize_mean_sum,0;2
+horizontal saccade_sum,0.0,horizontal saccade_sum,0;2
+horizontal saccade_sum,0.2655634493082547,horizontal saccade_sum,1;2
+fixation_PupilSize_max_sum,0.09248762583293,fixation_PupilSize_max_sum,1;2
+saccadic amplitude_sum,0.0611443117484508,saccadic amplitude_sum,1;2
+Fixation Duration_sum,0.0532362082362082,Fixation Duration_sum,1;2
+non-horizontal saccade_sum,0.0516737775914172,non-horizontal saccade_sum,1;2
+Sub-scanNUniqueVisits_std,0.0506847423938057,Sub-scanNUniqueVisits_std,1;2
+Sub-scanNUniqueVisits_sum,0.0482438556224292,Sub-scanNUniqueVisits_sum,1;2
+Sub-scanDensity_sum,0.0474898832466466,Sub-scanDensity_sum,1;2
+fixation_PupilPeaksAmplitude_sum_sum,0.0425497783181874,fixation_PupilPeaksAmplitude_sum_sum,1;2
+Fixation Count_sum,0.0388487299020374,Fixation Count_sum,1;2
+fixation_PupilSize_min_sum,0.0379009213090926,fixation_PupilSize_min_sum,1;2
+fixation_NumberOfPupilPeaks_sum,0.0371854658591313,fixation_NumberOfPupilPeaks_sum,1;2
+fixation_PupilPeaksAmplitude_max_sum,0.0367879859277798,fixation_PupilPeaksAmplitude_max_sum,1;2
+fixation_PupilSize_std_sum,0.0299785132177836,fixation_PupilSize_std_sum,1;2
+horizontal saccade_std,0.0286423308495977,horizontal saccade_std,1;2
+fixation_PupilPeaksAmplitude_mean_sum,0.0211647727272727,fixation_PupilPeaksAmplitude_mean_sum,1;2
+Sub-scanNtranstions_min,0.020512275157997,Sub-scanNtranstions_min,1;2
+fixation_PupilPeaksAmplitude_median_sum,0.0171022727272727,fixation_PupilPeaksAmplitude_median_sum,1;2
+Sub-scanAverageWeightedDegree_sum,0.0107883522727272,Sub-scanAverageWeightedDegree_sum,1;2
+horizontal saccade_mean,0.0080147477509775,horizontal saccade_mean,1;2
+fixation_PupilSize_std_sum,0.3086171183489467,fixation_PupilSize_std_sum,2;2
+Fixation Duration_sum,0.0666372495245399,Fixation Duration_sum,2;2
+fixation_PupilSize_max_sum,0.0610383104995768,fixation_PupilSize_max_sum,2;2
+fixation_PupilPeaksAmplitude_max_sum,0.0556506823827594,fixation_PupilPeaksAmplitude_max_sum,2;2
+fixation_NumberOfPupilPeaks_sum,0.0526978160276877,fixation_NumberOfPupilPeaks_sum,2;2
+fixation_PupilPeaksAmplitude_std_sum,0.049390412711319,fixation_PupilPeaksAmplitude_std_sum,2;2
+Sub-scanDensity_sum,0.0485175095582309,Sub-scanDensity_sum,2;2
+fixation_NumberOfPupilPeaks_mean,0.0430766166774605,fixation_NumberOfPupilPeaks_mean,2;2
+fixation_PupilSize_min_sum,0.0430256204402712,fixation_PupilSize_min_sum,2;2
+fixation_PupilSize_median_sum,0.0413154104713864,fixation_PupilSize_median_sum,2;2
+Fixation Count_sum,0.0379357792464643,Fixation Count_sum,2;2
+non-horizontal saccade_sum,0.0370562716001584,non-horizontal saccade_sum,2;2
+Sub-scanNUniqueVisits_sum,0.0368859948611484,Sub-scanNUniqueVisits_sum,2;2
+fixation_PupilPeaksAmplitude_min_sum,0.0322634170389121,fixation_PupilPeaksAmplitude_min_sum,2;2
+fixation_PupilSize_mean_sum,0.0214899120042251,fixation_PupilSize_mean_sum,2;2
+horizontal saccade_sum,0.0181092988070358,horizontal saccade_sum,2;2
+fixation_PupilPeaksAmplitude_sum_sum,0.0161883303478131,fixation_PupilPeaksAmplitude_sum_sum,2;2
+saccadic amplitude_sum,0.0126412261449852,saccadic amplitude_sum,2;2
+fixation_PupilSize_sum_sum,0.0122370023213589,fixation_PupilSize_sum_sum,2;2
+Sub-scanAverageWeightedDegree_sum,0.0052260209857192,Sub-scanAverageWeightedDegree_sum,2;2
+Fixation Count_sum,0.2467368675055595,Fixation Count_sum,3;2
+Sub-scanEntropy_mean,0.1479510563680791,Sub-scanEntropy_mean,3;2
+fixation_NumberOfPupilPeaks_sum,0.0686176605677182,fixation_NumberOfPupilPeaks_sum,3;2
+fixation_PupilSize_max_sum,0.057784779780762,fixation_PupilSize_max_sum,3;2
+Fixation Duration_sum,0.0512211549330903,Fixation Duration_sum,3;2
+fixation_PupilSize_sum_sum,0.0489117957351381,fixation_PupilSize_sum_sum,3;2
+horizontal saccade_std,0.0483570024655215,horizontal saccade_std,3;2
+Sub-scanAverageWeightedDegree_sum,0.0478531723915966,Sub-scanAverageWeightedDegree_sum,3;2
+horizontal saccade_sum,0.0417930211362611,horizontal saccade_sum,3;2
+fixation_PupilPeaksAmplitude_median_sum,0.0342411596492427,fixation_PupilPeaksAmplitude_median_sum,3;2
+fixation_PupilSize_median_sum,0.0341824710293198,fixation_PupilSize_median_sum,3;2
+non-horizontal saccade_sum,0.0317290103465617,non-horizontal saccade_sum,3;2
+fixation_PupilSize_std_sum,0.0305417620040961,fixation_PupilSize_std_sum,3;2
+fixation_PupilSize_min_sum,0.0283329225884365,fixation_PupilSize_min_sum,3;2
+fixation_PupilPeaksAmplitude_max_sum,0.0216695586700515,fixation_PupilPeaksAmplitude_max_sum,3;2
+Sub-scanDensity_sum,0.0186401820413615,Sub-scanDensity_sum,3;2
+fixation_PupilPeaksAmplitude_sum_sum,0.0152912913314265,fixation_PupilPeaksAmplitude_sum_sum,3;2
+horizontal saccade_mean,0.0135969346281628,horizontal saccade_mean,3;2
+Sub-scanNUniqueVisits_sum,0.0069046787709497,Sub-scanNUniqueVisits_sum,3;2
+fixation_PupilSize_mean_sum,0.005643518056664,fixation_PupilSize_mean_sum,3;2
+fixation_PupilPeaksAmplitude_min_sum,0.2825905734046491,fixation_PupilPeaksAmplitude_min_sum,4;2
+Fixation Duration_sum,0.1036451817841318,Fixation Duration_sum,4;2
+fixation_PupilSize_min_sum,0.0679287565006056,fixation_PupilSize_min_sum,4;2
+fixation_PupilSize_max_sum,0.0649736156796663,fixation_PupilSize_max_sum,4;2
+fixation_NumberOfPupilPeaks_sum,0.0614471594571819,fixation_NumberOfPupilPeaks_sum,4;2
+fixation_PupilPeaksAmplitude_max_sum,0.0555303993317492,fixation_PupilPeaksAmplitude_max_sum,4;2
+Sub-scanAverageWeightedDegree_sum,0.0480926795409372,Sub-scanAverageWeightedDegree_sum,4;2
+Sub-scanNtranstions_sum,0.0469119028012791,Sub-scanNtranstions_sum,4;2
+fixation_PupilPeaksAmplitude_std_sum,0.0427298549773795,fixation_PupilPeaksAmplitude_std_sum,4;2
+fixation_PupilPeaksAmplitude_median_sum,0.037097199728818,fixation_PupilPeaksAmplitude_median_sum,4;2
+horizontal saccade_sum,0.0311754715133839,horizontal saccade_sum,4;2
+fixation_PupilPeaksAmplitude_sum_sum,0.0287412887872463,fixation_PupilPeaksAmplitude_sum_sum,4;2
+non-horizontal saccade_sum,0.0220824124394684,non-horizontal saccade_sum,4;2
+Sub-scanEntropy_sum,0.0219463288356156,Sub-scanEntropy_sum,4;2
+Fixation Count_sum,0.0214088187018614,Fixation Count_sum,4;2
+fixation_PupilSize_std_sum,0.0193672738950687,fixation_PupilSize_std_sum,4;2
+fixation_PupilSize_mean_sum,0.0166943506520967,fixation_PupilSize_mean_sum,4;2
+fixation_PupilSize_median_sum,0.0143249323781555,fixation_PupilSize_median_sum,4;2
+fixation_PupilPeaksAmplitude_mean_sum,0.0073484184273766,fixation_PupilPeaksAmplitude_mean_sum,4;2
+Sub-scanDensity_sum,0.0059633811633281,Sub-scanDensity_sum,4;2
+fixation_PupilSize_std_sum,0.3361995311095661,fixation_PupilSize_std_sum,5;2
+Fixation Duration_sum,0.1120543348043032,Fixation Duration_sum,5;2
+fixation_PupilPeaksAmplitude_max_sum,0.0576061123085248,fixation_PupilPeaksAmplitude_max_sum,5;2
+Sub-scanNUniqueVisits_sum,0.0571327931569034,Sub-scanNUniqueVisits_sum,5;2
+fixation_PupilPeaksAmplitude_min_sum,0.0566793926083942,fixation_PupilPeaksAmplitude_min_sum,5;2
+horizontal saccade_sum,0.0514441757235781,horizontal saccade_sum,5;2
+fixation_NumberOfPupilPeaks_sum,0.0463343505675605,fixation_NumberOfPupilPeaks_sum,5;2
+fixation_PupilSize_median_sum,0.0375254705881523,fixation_PupilSize_median_sum,5;2
+fixation_PupilSize_sum_sum,0.0341208815643253,fixation_PupilSize_sum_sum,5;2
+fixation_PupilSize_min_sum,0.0327742148711656,fixation_PupilSize_min_sum,5;2
+fixation_PupilSize_max_sum,0.0313880990022987,fixation_PupilSize_max_sum,5;2
+fixation_PupilPeaksAmplitude_std_sum,0.0313589698850195,fixation_PupilPeaksAmplitude_std_sum,5;2
+non-horizontal saccade_sum,0.0256808232947781,non-horizontal saccade_sum,5;2
+Sub-scanDensity_max,0.0198319187869692,Sub-scanDensity_max,5;2
+Sub-scanAverageWeightedDegree_max,0.0172814339499602,Sub-scanAverageWeightedDegree_max,5;2
+SpaceTimeCluster_countUniqueClusters,0.0161997082827465,SpaceTimeCluster_countUniqueClusters,5;2
+fixation_PupilPeaksAmplitude_sum_sum,0.0137868851669914,fixation_PupilPeaksAmplitude_sum_sum,5;2
+fixation_PupilPeaksAmplitude_median_sum,0.0124122108120868,fixation_PupilPeaksAmplitude_median_sum,5;2
+Fixation Count_sum,0.0101886935166752,Fixation Count_sum,5;2
+fixation_PupilPeaksAmplitude_mean_sum,0.0,fixation_PupilPeaksAmplitude_mean_sum,5;2
+Sub-scanDensity_sum,0.2969008534118257,Sub-scanDensity_sum,6;2
+horizontal saccade_sum,0.0779909033257713,horizontal saccade_sum,6;2
+Sub-scanAverageWeightedDegree_sum,0.0672852520438944,Sub-scanAverageWeightedDegree_sum,6;2
+saccadic amplitude_sum,0.0658981398736648,saccadic amplitude_sum,6;2
+fixation_PupilPeaksAmplitude_mean_sum,0.0648501600824427,fixation_PupilPeaksAmplitude_mean_sum,6;2
+fixation_PupilSize_min_sum,0.0605726202650187,fixation_PupilSize_min_sum,6;2
+fixation_PupilSize_max_sum,0.0561049844239208,fixation_PupilSize_max_sum,6;2
+fixation_PupilSize_mean_sum,0.0436073354494092,fixation_PupilSize_mean_sum,6;2
+Sub-scanNtranstions_sum,0.0364904205252803,Sub-scanNtranstions_sum,6;2
+fixation_NumberOfPupilPeaks_sum,0.0355423293310572,fixation_NumberOfPupilPeaks_sum,6;2
+fixation_PupilSize_median_sum,0.03459288964586,fixation_PupilSize_median_sum,6;2
+Fixation Count 250_sum,0.033339712110033,Fixation Count 250_sum,6;2
+fixation_PupilSize_sum_sum,0.0253240931338914,fixation_PupilSize_sum_sum,6;2
+fixation_PupilPeaksAmplitude_max_sum,0.0245476883081363,fixation_PupilPeaksAmplitude_max_sum,6;2
+fixation_PupilSize_std_sum,0.0200735564870763,fixation_PupilSize_std_sum,6;2
+Fixation Duration_sum,0.0172588934457991,Fixation Duration_sum,6;2
+Sub-scanNUniqueVisits_sum,0.0160833840441888,Sub-scanNUniqueVisits_sum,6;2
+fixation_PupilPeaksAmplitude_sum_sum,0.012066872823201,fixation_PupilPeaksAmplitude_sum_sum,6;2
+Fixation Count_sum,0.0114699112695283,Fixation Count_sum,6;2
+IsfixationInSpatialCluster_sum,0.0,IsfixationInSpatialCluster_sum,6;2
+horizontal saccade_sum,0.3149696645608874,horizontal saccade_sum,7;2
+fixation_PupilSize_max_sum,0.0661410825007126,fixation_PupilSize_max_sum,7;2
+Sub-scanEntropy_sum,0.0659035310127641,Sub-scanEntropy_sum,7;2
+fixation_PupilPeaksAmplitude_std_sum,0.0584971137389302,fixation_PupilPeaksAmplitude_std_sum,7;2
+fixation_PupilSize_std_sum,0.0519375501384807,fixation_PupilSize_std_sum,7;2
+fixation_PupilSize_min_sum,0.0497177896736729,fixation_PupilSize_min_sum,7;2
+saccadic amplitude_sum,0.0490304515684272,saccadic amplitude_sum,7;2
+Sub-scanAverageWeightedDegree_sum,0.0437145525856798,Sub-scanAverageWeightedDegree_sum,7;2
+Fixation Duration 250_sum,0.0333007039652926,Fixation Duration 250_sum,7;2
+fixation_PupilPeaksAmplitude_max_sum,0.033147518410649,fixation_PupilPeaksAmplitude_max_sum,7;2
+Fixation Duration_sum,0.0306405987468279,Fixation Duration_sum,7;2
+Fixation Count_sum,0.030167106985165,Fixation Count_sum,7;2
+fixation_NumberOfPupilPeaks_sum,0.0267839866216552,fixation_NumberOfPupilPeaks_sum,7;2
+fixation_PupilSize_sum_sum,0.0262988038263549,fixation_PupilSize_sum_sum,7;2
+fixation_PupilSize_median_sum,0.0259952872201383,fixation_PupilSize_median_sum,7;2
+fixation_NumberOfPupilPeaks_mean,0.0259212991446829,fixation_NumberOfPupilPeaks_mean,7;2
+Sub-scanDensity_sum,0.0253300984716607,Sub-scanDensity_sum,7;2
+fixation_PupilSize_mean_sum,0.0164654400430141,fixation_PupilSize_mean_sum,7;2
+horizontal saccade_std,0.0138912068528461,horizontal saccade_std,7;2
+fixation_PupilPeaksAmplitude_sum_sum,0.0121462139321576,fixation_PupilPeaksAmplitude_sum_sum,7;2
+fixation_PupilSize_std_sum,0.304262083696435,fixation_PupilSize_std_sum,8;2
+Sub-scanDensity_sum,0.070046914102132,Sub-scanDensity_sum,8;2
+Sub-scanEntropy_sum,0.0648904092620604,Sub-scanEntropy_sum,8;2
+horizontal saccade_sum,0.0639778853966696,horizontal saccade_sum,8;2
+fixation_PupilSize_max_sum,0.0579475939627646,fixation_PupilSize_max_sum,8;2
+fixation_PupilSize_sum_sum,0.0569335533934687,fixation_PupilSize_sum_sum,8;2
+Sub-scanAverageWeightedDegree_sum,0.0466030000286616,Sub-scanAverageWeightedDegree_sum,8;2
+fixation_PupilSize_min_sum,0.0449566716861703,fixation_PupilSize_min_sum,8;2
+fixation_PupilSize_median_sum,0.0440609961353046,fixation_PupilSize_median_sum,8;2
+saccadic amplitude_sum,0.040712439668942,saccadic amplitude_sum,8;2
+Fixation Duration_sum,0.0385525366929416,Fixation Duration_sum,8;2
+fixation_PupilPeaksAmplitude_sum_sum,0.0331157774999278,fixation_PupilPeaksAmplitude_sum_sum,8;2
+fixation_PupilPeaksAmplitude_median_sum,0.0261585135814889,fixation_PupilPeaksAmplitude_median_sum,8;2
+Sub-scanNUniqueVisits_sum,0.0234691768032437,Sub-scanNUniqueVisits_sum,8;2
+fixation_PupilSize_mean_sum,0.0228827664475556,fixation_PupilSize_mean_sum,8;2
+fixation_PupilPeaksAmplitude_mean_sum,0.0177303925104417,fixation_PupilPeaksAmplitude_mean_sum,8;2
+Sub-scanDensity_max,0.0173094007502025,Sub-scanDensity_max,8;2
+Fixation Count_sum,0.0158202162039608,Fixation Count_sum,8;2
+fixation_NumberOfPupilPeaks_sum,0.0060425091997608,fixation_NumberOfPupilPeaks_sum,8;2
+fixation_PupilPeaksAmplitude_max_sum,0.0045271629778672,fixation_PupilPeaksAmplitude_max_sum,8;2
+fixation_PupilSize_std_sum,0.3169217105313418,fixation_PupilSize_std_sum,9;2
+Sub-scanNUniqueVisits_std,0.1493400737495328,Sub-scanNUniqueVisits_std,9;2
+fixation_PupilPeaksAmplitude_sum_sum,0.0846518185736676,fixation_PupilPeaksAmplitude_sum_sum,9;2
+fixation_PupilPeaksAmplitude_median_sum,0.0627313740816404,fixation_PupilPeaksAmplitude_median_sum,9;2
+fixation_NumberOfPupilPeaks_sum,0.0618645408519294,fixation_NumberOfPupilPeaks_sum,9;2
+fixation_PupilSize_min_sum,0.0490105764053726,fixation_PupilSize_min_sum,9;2
+non-horizontal saccade_sum,0.0432573288219464,non-horizontal saccade_sum,9;2
+fixation_PupilPeaksAmplitude_max_sum,0.0337809295214458,fixation_PupilPeaksAmplitude_max_sum,9;2
+Fixation Duration_sum,0.0302649709653252,Fixation Duration_sum,9;2
+fixation_PupilPeaksAmplitude_min_sum,0.0297728379691741,fixation_PupilPeaksAmplitude_min_sum,9;2
+Sub-scanNUniqueVisits_sum,0.0265008626850731,Sub-scanNUniqueVisits_sum,9;2
+Fixation Count_sum,0.02599211689284,Fixation Count_sum,9;2
+fixation_PupilSize_mean_sum,0.0188280075187969,fixation_PupilSize_mean_sum,9;2
+Sub-scanAverageWeightedDegree_sum,0.0140912698412698,Sub-scanAverageWeightedDegree_sum,9;2
+fixation_PupilSize_max_sum,0.0134709345752886,fixation_PupilSize_max_sum,9;2
+fixation_PupilSize_sum_sum,0.011724525533736,fixation_PupilSize_sum_sum,9;2
+fixation_PupilSize_median_sum,0.0099715942743582,fixation_PupilSize_median_sum,9;2
+fixation_PupilPeaksAmplitude_mean_sum,0.0099420394420394,fixation_PupilPeaksAmplitude_mean_sum,9;2
+Sub-scanDensity_sum,0.007882487765221,Sub-scanDensity_sum,9;2
+horizontal saccade_sum,0.0,horizontal saccade_sum,9;2
+fixation_PupilSize_max_sum,0.3468367290129467,fixation_PupilSize_max_sum,0;3
+Sub-scanDensity_sum,0.095158859412799,Sub-scanDensity_sum,0;3
+Fixation Duration_sum,0.059156905680508,Fixation Duration_sum,0;3
+Sub-scanAverageWeightedDegree_sum,0.0526817129079966,Sub-scanAverageWeightedDegree_sum,0;3
+fixation_NumberOfPupilPeaks_sum,0.0510080575896209,fixation_NumberOfPupilPeaks_sum,0;3
+fixation_PupilSize_sum_sum,0.0432472023460921,fixation_PupilSize_sum_sum,0;3
+Fixation Duration 250_sum,0.039402502253182,Fixation Duration 250_sum,0;3
+Sub-scanNUniqueVisits_sum,0.038845245062292,Sub-scanNUniqueVisits_sum,0;3
+fixation_PupilPeaksAmplitude_std_sum,0.0383314078230731,fixation_PupilPeaksAmplitude_std_sum,0;3
+fixation_PupilPeaksAmplitude_min_sum,0.033832185256761,fixation_PupilPeaksAmplitude_min_sum,0;3
+fixation_PupilSize_min_sum,0.0280650630180973,fixation_PupilSize_min_sum,0;3
+horizontal saccade_sum,0.0262358966122723,horizontal saccade_sum,0;3
+fixation_PupilSize_median_sum,0.0260876937010156,fixation_PupilSize_median_sum,0;3
+fixation_PupilPeaksAmplitude_mean_sum,0.0244466298288078,fixation_PupilPeaksAmplitude_mean_sum,0;3
+fixation_PupilSize_std_sum,0.0222981417994896,fixation_PupilSize_std_sum,0;3
+non-horizontal saccade_sum,0.020507449789638,non-horizontal saccade_sum,0;3
+fixation_PupilSize_mean_sum,0.0169130533877191,fixation_PupilSize_mean_sum,0;3
+Fixation Count_sum,0.0133400734549832,Fixation Count_sum,0;3
+fixation_PupilPeaksAmplitude_max_sum,0.0120316883974253,fixation_PupilPeaksAmplitude_max_sum,0;3
+fixation_PupilPeaksAmplitude_sum_sum,0.0115735026652798,fixation_PupilPeaksAmplitude_sum_sum,0;3
+fixation_PupilSize_max_sum,0.2977712056693285,fixation_PupilSize_max_sum,1;3
+fixation_PupilSize_std_sum,0.0784618069066782,fixation_PupilSize_std_sum,1;3
+Sub-scanNUniqueVisits_mean,0.0711772709563006,Sub-scanNUniqueVisits_mean,1;3
+fixation_PupilSize_min_sum,0.0604618406137413,fixation_PupilSize_min_sum,1;3
+Fixation Duration_sum,0.0531605926416761,Fixation Duration_sum,1;3
+fixation_PupilPeaksAmplitude_min_sum,0.0519450890949622,fixation_PupilPeaksAmplitude_min_sum,1;3
+fixation_NumberOfPupilPeaks_sum,0.0465976381421509,fixation_NumberOfPupilPeaks_sum,1;3
+fixation_PupilPeaksAmplitude_sum_sum,0.0455769390158892,fixation_PupilPeaksAmplitude_sum_sum,1;3
+non-horizontal saccade_sum,0.0411605678682823,non-horizontal saccade_sum,1;3
+horizontal saccade_sum,0.038257411172569,horizontal saccade_sum,1;3
+fixation_PupilPeaksAmplitude_mean_sum,0.0381486561783293,fixation_PupilPeaksAmplitude_mean_sum,1;3
+Sub-scanNUniqueVisits_std,0.03546863140887,Sub-scanNUniqueVisits_std,1;3
+horizontal saccade_mean,0.0338667258151153,horizontal saccade_mean,1;3
+Sub-scanNtranstions_sum,0.0271428746102379,Sub-scanNtranstions_sum,1;3
+Sub-scanEntropy_sum,0.0198570636262817,Sub-scanEntropy_sum,1;3
+Sub-scanAverageWeightedDegree_sum,0.0192948226763778,Sub-scanAverageWeightedDegree_sum,1;3
+Fixation Count_sum,0.0173659778887161,Fixation Count_sum,1;3
+fixation_PupilPeaksAmplitude_median_sum,0.0123604864280003,fixation_PupilPeaksAmplitude_median_sum,1;3
+no saccade_mean,0.0086783281880808,no saccade_mean,1;3
+Sub-scanDensity_sum,0.0032460710984116,Sub-scanDensity_sum,1;3
+fixation_PupilSize_std_sum,0.3466399158505272,fixation_PupilSize_std_sum,2;3
+fixation_PupilPeaksAmplitude_max_sum,0.0812548594307004,fixation_PupilPeaksAmplitude_max_sum,2;3
+horizontal saccade_sum,0.0622440873339475,horizontal saccade_sum,2;3
+fixation_NumberOfPupilPeaks_sum,0.0533056149198871,fixation_NumberOfPupilPeaks_sum,2;3
+Fixation Duration_sum,0.0494652101594822,Fixation Duration_sum,2;3
+fixation_PupilSize_min_sum,0.0454244590097755,fixation_PupilSize_min_sum,2;3
+fixation_PupilPeaksAmplitude_min_sum,0.0444243031853281,fixation_PupilPeaksAmplitude_min_sum,2;3
+fixation_PupilSize_max_sum,0.0442846703903676,fixation_PupilSize_max_sum,2;3
+fixation_PupilPeaksAmplitude_mean_sum,0.0399911402595881,fixation_PupilPeaksAmplitude_mean_sum,2;3
+Sub-scanDensity_sum,0.0334774205768002,Sub-scanDensity_sum,2;3
+Fixation Count_sum,0.0323414502192149,Fixation Count_sum,2;3
+fixation_PupilSize_median_sum,0.0314725919452593,fixation_PupilSize_median_sum,2;3
+fixation_PupilSize_sum_sum,0.0270282844694158,fixation_PupilSize_sum_sum,2;3
+fixation_PupilPeaksAmplitude_sum_sum,0.0221816434893001,fixation_PupilPeaksAmplitude_sum_sum,2;3
+Sub-scanNUniqueVisits_min,0.0210815981539091,Sub-scanNUniqueVisits_min,2;3
+saccadic amplitude_sum,0.0187223442017328,saccadic amplitude_sum,2;3
+Sub-scanNUniqueVisits_sum,0.0136860658797851,Sub-scanNUniqueVisits_sum,2;3
+Sub-scanNtranstions_sum,0.0130673356089269,Sub-scanNtranstions_sum,2;3
+Sub-scanAverageWeightedDegree_sum,0.0118446679250504,Sub-scanAverageWeightedDegree_sum,2;3
+fixation_PupilSize_mean_sum,0.0080623369910007,fixation_PupilSize_mean_sum,2;3
+horizontal saccade_sum,0.2955587662380849,horizontal saccade_sum,3;3
+fixation_PupilSize_std_sum,0.0864241540163172,fixation_PupilSize_std_sum,3;3
+horizontal saccade_std,0.077894468102083,horizontal saccade_std,3;3
+Fixation Duration_sum,0.0692732496976738,Fixation Duration_sum,3;3
+Sub-scanNUniqueVisits_mean,0.0613164419598188,Sub-scanNUniqueVisits_mean,3;3
+Sub-scanEntropy_mean,0.0604140472001288,Sub-scanEntropy_mean,3;3
+fixation_PupilSize_max_sum,0.0524369939514237,fixation_PupilSize_max_sum,3;3
+fixation_PupilPeaksAmplitude_sum_sum,0.0351720062463824,fixation_PupilPeaksAmplitude_sum_sum,3;3
+fixation_PupilSize_min_sum,0.0339351769248426,fixation_PupilSize_min_sum,3;3
+Fixation Count 250_sum,0.0319102149397566,Fixation Count 250_sum,3;3
+fixation_PupilSize_median_sum,0.0290035713302243,fixation_PupilSize_median_sum,3;3
+fixation_NumberOfPupilPeaks_sum,0.0285440785496854,fixation_NumberOfPupilPeaks_sum,3;3
+fixation_PupilPeaksAmplitude_min_sum,0.0278765593580946,fixation_PupilPeaksAmplitude_min_sum,3;3
+fixation_PupilPeaksAmplitude_max_sum,0.0242563615362722,fixation_PupilPeaksAmplitude_max_sum,3;3
+fixation_PupilSize_sum_sum,0.0237617178053741,fixation_PupilSize_sum_sum,3;3
+Fixation Count_sum,0.0197832650535569,Fixation Count_sum,3;3
+Sub-scanDensity_sum,0.016687919389938,Sub-scanDensity_sum,3;3
+Sub-scanAverageWeightedDegree_sum,0.0145744481256899,Sub-scanAverageWeightedDegree_sum,3;3
+fixation_PupilSize_mean_sum,0.0061039275096374,fixation_PupilSize_mean_sum,3;3
+IsfixationInSpatialTemporalCluster_sum,0.0050726320650146,IsfixationInSpatialTemporalCluster_sum,3;3
+fixation_PupilPeaksAmplitude_mean_sum,0.2520204870185271,fixation_PupilPeaksAmplitude_mean_sum,4;3
+Fixation Duration_sum,0.0912379620492591,Fixation Duration_sum,4;3
+horizontal saccade_sum,0.0758537912545314,horizontal saccade_sum,4;3
+fixation_PupilSize_max_sum,0.0655113779070954,fixation_PupilSize_max_sum,4;3
+Sub-scanNUniqueVisits_sum,0.0550207462286839,Sub-scanNUniqueVisits_sum,4;3
+fixation_PupilPeaksAmplitude_sum_sum,0.0451772058741771,fixation_PupilPeaksAmplitude_sum_sum,4;3
+Sub-scanDensity_sum,0.0450367270578791,Sub-scanDensity_sum,4;3
+Sub-scanEntropy_sum,0.0449685946819951,Sub-scanEntropy_sum,4;3
+fixation_PupilPeaksAmplitude_std_sum,0.0431161106121566,fixation_PupilPeaksAmplitude_std_sum,4;3
+fixation_NumberOfPupilPeaks_sum,0.0371405869285285,fixation_NumberOfPupilPeaks_sum,4;3
+Sub-scanAverageWeightedDegree_sum,0.0367414692210246,Sub-scanAverageWeightedDegree_sum,4;3
+fixation_PupilSize_median_sum,0.033340616820963,fixation_PupilSize_median_sum,4;3
+fixation_PupilSize_mean_sum,0.0298445277398206,fixation_PupilSize_mean_sum,4;3
+fixation_PupilPeaksAmplitude_min_sum,0.0276336505959793,fixation_PupilPeaksAmplitude_min_sum,4;3
+fixation_PupilSize_std_sum,0.0264628424924257,fixation_PupilSize_std_sum,4;3
+fixation_PupilPeaksAmplitude_median_sum,0.0239452140157876,fixation_PupilPeaksAmplitude_median_sum,4;3
+SpaceTimeCluster_countUniqueClusters,0.0205784637023934,SpaceTimeCluster_countUniqueClusters,4;3
+Fixation Count_sum,0.0183244971513793,Fixation Count_sum,4;3
+fixation_PupilSize_sum_sum,0.016103427468673,fixation_PupilSize_sum_sum,4;3
+fixation_PupilPeaksAmplitude_max_sum,0.0119417011787193,fixation_PupilPeaksAmplitude_max_sum,4;3
+fixation_PupilSize_std_sum,0.3876937360242574,fixation_PupilSize_std_sum,5;3
+Fixation Duration_sum,0.0647004002283232,Fixation Duration_sum,5;3
+fixation_PupilPeaksAmplitude_sum_sum,0.0638202206423563,fixation_PupilPeaksAmplitude_sum_sum,5;3
+fixation_PupilSize_max_sum,0.0633253232971859,fixation_PupilSize_max_sum,5;3
+fixation_PupilPeaksAmplitude_min_sum,0.0628592161261587,fixation_PupilPeaksAmplitude_min_sum,5;3
+Fixation Duration 250_sum,0.0515269624039612,Fixation Duration 250_sum,5;3
+fixation_PupilPeaksAmplitude_std_sum,0.0440172116558017,fixation_PupilPeaksAmplitude_std_sum,5;3
+Fixation Count_sum,0.0343595366217067,Fixation Count_sum,5;3
+fixation_NumberOfPupilPeaks_sum,0.0339419059506232,fixation_NumberOfPupilPeaks_sum,5;3
+Sub-scanDensity_sum,0.0337988655063045,Sub-scanDensity_sum,5;3
+non-horizontal saccade_sum,0.0296894010494162,non-horizontal saccade_sum,5;3
+Sub-scanNUniqueVisits_sum,0.0251788320092379,Sub-scanNUniqueVisits_sum,5;3
+fixation_PupilPeaksAmplitude_median_sum,0.0239028871792129,fixation_PupilPeaksAmplitude_median_sum,5;3
+fixation_PupilSize_min_sum,0.0186004427029346,fixation_PupilSize_min_sum,5;3
+fixation_PupilSize_sum_sum,0.0167263686628398,fixation_PupilSize_sum_sum,5;3
+fixation_PupilSize_median_sum,0.0143445427586952,fixation_PupilSize_median_sum,5;3
+fixation_PupilSize_mean_sum,0.0132786791534375,fixation_PupilSize_mean_sum,5;3
+Sub-scanNtranstions_sum,0.0119400574124451,Sub-scanNtranstions_sum,5;3
+Sub-scanAverageWeightedDegree_sum,0.0062954106151013,Sub-scanAverageWeightedDegree_sum,5;3
+Fixation Count 250_sum,0.0,Fixation Count 250_sum,5;3
+Fixation Duration_sum,0.3325569123596297,Fixation Duration_sum,6;3
+fixation_PupilPeaksAmplitude_min_sum,0.0888979276027258,fixation_PupilPeaksAmplitude_min_sum,6;3
+fixation_PupilSize_max_sum,0.0882126113064766,fixation_PupilSize_max_sum,6;3
+Sub-scanDensity_sum,0.07918471508528,Sub-scanDensity_sum,6;3
+horizontal saccade_sum,0.0518103964143194,horizontal saccade_sum,6;3
+Fixation Count_sum,0.0441862242896764,Fixation Count_sum,6;3
+fixation_PupilSize_std_sum,0.0435319414221894,fixation_PupilSize_std_sum,6;3
+Fixation Duration 250_sum,0.0364808896554656,Fixation Duration 250_sum,6;3
+fixation_PupilPeaksAmplitude_median_sum,0.0329430657696611,fixation_PupilPeaksAmplitude_median_sum,6;3
+non-horizontal saccade_sum,0.0329277715539189,non-horizontal saccade_sum,6;3
+Sub-scanAverageWeightedDegree_sum,0.0314136140718043,Sub-scanAverageWeightedDegree_sum,6;3
+Fixation Count 250_sum,0.0238194600829605,Fixation Count 250_sum,6;3
+Sub-scanNtranstions_sum,0.0237526288370018,Sub-scanNtranstions_sum,6;3
+fixation_PupilPeaksAmplitude_max_sum,0.0225491424434792,fixation_PupilPeaksAmplitude_max_sum,6;3
+fixation_NumberOfPupilPeaks_sum,0.0205569631129179,fixation_NumberOfPupilPeaks_sum,6;3
+fixation_PupilSize_median_sum,0.0167929126324339,fixation_PupilSize_median_sum,6;3
+fixation_PupilSize_sum_sum,0.0118935645052594,fixation_PupilSize_sum_sum,6;3
+fixation_PupilPeaksAmplitude_sum_sum,0.0093917664916662,fixation_PupilPeaksAmplitude_sum_sum,6;3
+fixation_PupilPeaksAmplitude_mean_sum,0.009097492363133,fixation_PupilPeaksAmplitude_mean_sum,6;3
+fixation_PupilSize_mean_sum,0.0,fixation_PupilSize_mean_sum,6;3
+Fixation Duration_sum,0.274143837313911,Fixation Duration_sum,7;3
+fixation_PupilSize_max_sum,0.0840331920926409,fixation_PupilSize_max_sum,7;3
+saccadic amplitude_sum,0.0763902316160317,saccadic amplitude_sum,7;3
+fixation_PupilSize_std_sum,0.0573230735809681,fixation_PupilSize_std_sum,7;3
+Sub-scanEntropy_sum,0.0556583485059482,Sub-scanEntropy_sum,7;3
+fixation_PupilPeaksAmplitude_std_sum,0.0500495000659777,fixation_PupilPeaksAmplitude_std_sum,7;3
+fixation_PupilPeaksAmplitude_min_sum,0.0489676477257978,fixation_PupilPeaksAmplitude_min_sum,7;3
+horizontal saccade_sum,0.0378518003755615,horizontal saccade_sum,7;3
+fixation_PupilPeaksAmplitude_mean_sum,0.0365210713404722,fixation_PupilPeaksAmplitude_mean_sum,7;3
+horizontal saccade_std,0.0352783085843642,horizontal saccade_std,7;3
+non-horizontal saccade_sum,0.0346434544258692,non-horizontal saccade_sum,7;3
+Fixation Count 250_sum,0.0343354812821376,Fixation Count 250_sum,7;3
+fixation_PupilSize_mean_sum,0.0329701052582177,fixation_PupilSize_mean_sum,7;3
+fixation_PupilSize_median_sum,0.0292990483684029,fixation_PupilSize_median_sum,7;3
+Sub-scanDensity_sum,0.0289356612771704,Sub-scanDensity_sum,7;3
+Fixation Count_sum,0.0269732026478455,Fixation Count_sum,7;3
+fixation_PupilSize_sum_sum,0.0232127436665481,fixation_PupilSize_sum_sum,7;3
+Fixation Duration 250_sum,0.0143663650854072,Fixation Duration 250_sum,7;3
+Sub-scanAverageWeightedDegree_sum,0.0112800970669804,Sub-scanAverageWeightedDegree_sum,7;3
+fixation_NumberOfPupilPeaks_sum,0.007766829719747,fixation_NumberOfPupilPeaks_sum,7;3
+fixation_PupilSize_mean_sum,0.2911150596347711,fixation_PupilSize_mean_sum,8;3
+horizontal saccade_sum,0.1019838690878484,horizontal saccade_sum,8;3
+fixation_PupilSize_max_sum,0.092331277878258,fixation_PupilSize_max_sum,8;3
+Sub-scanEntropy_sum,0.0717682809205248,Sub-scanEntropy_sum,8;3
+fixation_PupilSize_median_sum,0.0515538561337342,fixation_PupilSize_median_sum,8;3
+saccadic amplitude_sum,0.0487158178911497,saccadic amplitude_sum,8;3
+fixation_NumberOfPupilPeaks_sum,0.0390746624040677,fixation_NumberOfPupilPeaks_sum,8;3
+Fixation Count 250_sum,0.0365783174584411,Fixation Count 250_sum,8;3
+fixation_PupilSize_std_sum,0.0305614826408453,fixation_PupilSize_std_sum,8;3
+fixation_PupilSize_sum_sum,0.0276702660764177,fixation_PupilSize_sum_sum,8;3
+fixation_PupilPeaksAmplitude_max_sum,0.0271526472710018,fixation_PupilPeaksAmplitude_max_sum,8;3
+fixation_PupilPeaksAmplitude_min_sum,0.0262330789968997,fixation_PupilPeaksAmplitude_min_sum,8;3
+Sub-scanAverageWeightedDegree_sum,0.0237221308843887,Sub-scanAverageWeightedDegree_sum,8;3
+Fixation Duration_sum,0.0230400530579208,Fixation Duration_sum,8;3
+fixation_PupilPeaksAmplitude_sum_sum,0.0229647040471936,fixation_PupilPeaksAmplitude_sum_sum,8;3
+Sub-scanNtranstions_sum,0.0192595930360288,Sub-scanNtranstions_sum,8;3
+fixation_PupilPeaksAmplitude_median_sum,0.0185574169877102,fixation_PupilPeaksAmplitude_median_sum,8;3
+fixation_PupilPeaksAmplitude_mean_sum,0.0185430089056122,fixation_PupilPeaksAmplitude_mean_sum,8;3
+Sub-scanDensity_sum,0.0167167735802864,Sub-scanDensity_sum,8;3
+Fixation Count_sum,0.012457703106899,Fixation Count_sum,8;3
+Fixation Count_sum,0.2902468262955823,Fixation Count_sum,9;3
+fixation_PupilSize_std_sum,0.1293901402033388,fixation_PupilSize_std_sum,9;3
+horizontal saccade_std,0.0730368401874397,horizontal saccade_std,9;3
+Fixation Duration_sum,0.0703994982015255,Fixation Duration_sum,9;3
+fixation_PupilPeaksAmplitude_min_sum,0.0489994624525727,fixation_PupilPeaksAmplitude_min_sum,9;3
+Sub-scanNUniqueVisits_sum,0.0432212395813128,Sub-scanNUniqueVisits_sum,9;3
+fixation_PupilPeaksAmplitude_median_sum,0.0429943774057578,fixation_PupilPeaksAmplitude_median_sum,9;3
+Sub-scanNtranstions_sum,0.0387061473977874,Sub-scanNtranstions_sum,9;3
+fixation_PupilSize_median_sum,0.0344089269859226,fixation_PupilSize_median_sum,9;3
+fixation_PupilPeaksAmplitude_sum_sum,0.0334311043265929,fixation_PupilPeaksAmplitude_sum_sum,9;3
+horizontal saccade_sum,0.0310124456973771,horizontal saccade_sum,9;3
+fixation_PupilSize_max_sum,0.0310070080038913,fixation_PupilSize_max_sum,9;3
+fixation_NumberOfPupilPeaks_sum,0.0283803563905425,fixation_NumberOfPupilPeaks_sum,9;3
+Fixation Count 250_sum,0.0236504780909008,Fixation Count 250_sum,9;3
+Sub-scanAverageWeightedDegree_sum,0.0184249471589053,Sub-scanAverageWeightedDegree_sum,9;3
+fixation_PupilSize_sum_sum,0.0165825260319294,fixation_PupilSize_sum_sum,9;3
+Sub-scanNUniqueVisits_min,0.0147050841338195,Sub-scanNUniqueVisits_min,9;3
+Sub-scanDensity_sum,0.0144892367906066,Sub-scanDensity_sum,9;3
+non-horizontal saccade_sum,0.0129152171367775,non-horizontal saccade_sum,9;3
+fixation_PupilSize_mean_sum,0.0039981375274164,fixation_PupilSize_mean_sum,9;3
+fixation_PupilSize_max_sum,0.3718481099594231,fixation_PupilSize_max_sum,0;4
+fixation_PupilSize_std_sum,0.0823423812114567,fixation_PupilSize_std_sum,0;4
+Sub-scanDensity_sum,0.0635400501833555,Sub-scanDensity_sum,0;4
+Sub-scanNUniqueVisits_sum,0.0610944169539736,Sub-scanNUniqueVisits_sum,0;4
+non-horizontal saccade_sum,0.0592342216449597,non-horizontal saccade_sum,0;4
+fixation_PupilSize_min_sum,0.0409620611618245,fixation_PupilSize_min_sum,0;4
+Fixation Count_sum,0.0408971136970893,Fixation Count_sum,0;4
+fixation_NumberOfPupilPeaks_sum,0.0370965870262538,fixation_NumberOfPupilPeaks_sum,0;4
+fixation_PupilPeaksAmplitude_std_sum,0.0348923103178571,fixation_PupilPeaksAmplitude_std_sum,0;4
+fixation_PupilPeaksAmplitude_sum_sum,0.0336002867134587,fixation_PupilPeaksAmplitude_sum_sum,0;4
+horizontal saccade_sum,0.0335982985292267,horizontal saccade_sum,0;4
+saccadic amplitude_sum,0.0324144487286559,saccadic amplitude_sum,0;4
+Fixation Duration_sum,0.0234141810721793,Fixation Duration_sum,0;4
+fixation_PupilPeaksAmplitude_mean_sum,0.021067777623085,fixation_PupilPeaksAmplitude_mean_sum,0;4
+fixation_PupilSize_sum_sum,0.0174490856983438,fixation_PupilSize_sum_sum,0;4
+fixation_PupilSize_mean_sum,0.0144350046019912,fixation_PupilSize_mean_sum,0;4
+fixation_PupilSize_median_sum,0.0128444658612808,fixation_PupilSize_median_sum,0;4
+fixation_PupilPeaksAmplitude_max_sum,0.0122895647362467,fixation_PupilPeaksAmplitude_max_sum,0;4
+Sub-scanAverageWeightedDegree_sum,0.0038775745996319,Sub-scanAverageWeightedDegree_sum,0;4
+fixation_PupilPeaksAmplitude_median_sum,0.0031020596797055,fixation_PupilPeaksAmplitude_median_sum,0;4
+horizontal saccade_sum,0.2819190596305774,horizontal saccade_sum,1;4
+fixation_PupilSize_min_sum,0.0699066789088645,fixation_PupilSize_min_sum,1;4
+fixation_PupilSize_max_sum,0.0665930615585467,fixation_PupilSize_max_sum,1;4
+Fixation Count_sum,0.0558071921982105,Fixation Count_sum,1;4
+fixation_PupilSize_std_sum,0.0537442078898846,fixation_PupilSize_std_sum,1;4
+Sub-scanAverageWeightedDegree_sum,0.0516660272969723,Sub-scanAverageWeightedDegree_sum,1;4
+Sub-scanDensity_sum,0.0496244604787977,Sub-scanDensity_sum,1;4
+Fixation Duration_sum,0.0494908361555294,Fixation Duration_sum,1;4
+fixation_PupilPeaksAmplitude_median_sum,0.0437257602714439,fixation_PupilPeaksAmplitude_median_sum,1;4
+fixation_PupilSize_median_sum,0.0430517391055551,fixation_PupilSize_median_sum,1;4
+saccadic amplitude_sum,0.0419122907126301,saccadic amplitude_sum,1;4
+non-horizontal saccade_sum,0.040421215213625,non-horizontal saccade_sum,1;4
+fixation_PupilPeaksAmplitude_mean_sum,0.0365308172971361,fixation_PupilPeaksAmplitude_mean_sum,1;4
+fixation_NumberOfPupilPeaks_sum,0.0320582689543117,fixation_NumberOfPupilPeaks_sum,1;4
+fixation_PupilPeaksAmplitude_max_sum,0.0278015786970265,fixation_PupilPeaksAmplitude_max_sum,1;4
+fixation_PupilPeaksAmplitude_std_sum,0.0187012142189402,fixation_PupilPeaksAmplitude_std_sum,1;4
+horizontal saccade_mean,0.0148767135261313,horizontal saccade_mean,1;4
+fixation_PupilPeaksAmplitude_sum_sum,0.0117826713172644,fixation_PupilPeaksAmplitude_sum_sum,1;4
+horizontal saccade_std,0.0056731380416458,horizontal saccade_std,1;4
+non-horizontal saccade_mean,0.0047130685269057,non-horizontal saccade_mean,1;4
+fixation_PupilSize_std_sum,0.3561754110068162,fixation_PupilSize_std_sum,2;4
+Fixation Duration_sum,0.0725795155992369,Fixation Duration_sum,2;4
+saccadic amplitude_sum,0.0624970233646545,saccadic amplitude_sum,2;4
+fixation_PupilPeaksAmplitude_max_sum,0.0609424059551542,fixation_PupilPeaksAmplitude_max_sum,2;4
+fixation_NumberOfPupilPeaks_sum,0.0528950307254836,fixation_NumberOfPupilPeaks_sum,2;4
+horizontal saccade_sum,0.0451783115984823,horizontal saccade_sum,2;4
+fixation_PupilSize_min_sum,0.043456998539422,fixation_PupilSize_min_sum,2;4
+fixation_PupilPeaksAmplitude_median_sum,0.0396470025955438,fixation_PupilPeaksAmplitude_median_sum,2;4
+fixation_PupilSize_max_sum,0.0381409165935996,fixation_PupilSize_max_sum,2;4
+Sub-scanNUniqueVisits_sum,0.0365154251731707,Sub-scanNUniqueVisits_sum,2;4
+Sub-scanNtranstions_sum,0.0362314804323747,Sub-scanNtranstions_sum,2;4
+Sub-scanDensity_sum,0.034110950668096,Sub-scanDensity_sum,2;4
+fixation_PupilPeaksAmplitude_sum_sum,0.0289764847684865,fixation_PupilPeaksAmplitude_sum_sum,2;4
+fixation_PupilSize_sum_sum,0.0204098606035694,fixation_PupilSize_sum_sum,2;4
+non-horizontal saccade_sum,0.0162251349754158,non-horizontal saccade_sum,2;4
+Fixation Count_sum,0.0157560947227555,Fixation Count_sum,2;4
+fixation_PupilSize_median_sum,0.0148698143946005,fixation_PupilSize_median_sum,2;4
+Sub-scanAverageWeightedDegree_sum,0.0123933601368632,Sub-scanAverageWeightedDegree_sum,2;4
+fixation_PupilPeaksAmplitude_mean_sum,0.00709024262524,fixation_PupilPeaksAmplitude_mean_sum,2;4
+fixation_PupilSize_mean_sum,0.0059085355210333,fixation_PupilSize_mean_sum,2;4
+horizontal saccade_sum,0.2724309668614708,horizontal saccade_sum,3;4
+fixation_PupilSize_std_sum,0.1093569074875241,fixation_PupilSize_std_sum,3;4
+Fixation Duration_sum,0.0856009582071005,Fixation Duration_sum,3;4
+fixation_PupilSize_max_sum,0.0630743718310551,fixation_PupilSize_max_sum,3;4
+Sub-scanDensity_sum,0.0477923301756582,Sub-scanDensity_sum,3;4
+non-horizontal saccade_std,0.041592661739381,non-horizontal saccade_std,3;4
+fixation_PupilSize_min_sum,0.0405624782364671,fixation_PupilSize_min_sum,3;4
+Sub-scanNUniqueVisits_sum,0.0403602369828148,Sub-scanNUniqueVisits_sum,3;4
+fixation_PupilPeaksAmplitude_median_sum,0.0395494087362617,fixation_PupilPeaksAmplitude_median_sum,3;4
+horizontal saccade_mean,0.0366396789769894,horizontal saccade_mean,3;4
+fixation_NumberOfPupilPeaks_sum,0.0337030705435337,fixation_NumberOfPupilPeaks_sum,3;4
+saccadic amplitude_sum,0.0299817896893866,saccadic amplitude_sum,3;4
+horizontal saccade_std,0.0282969124650902,horizontal saccade_std,3;4
+fixation_PupilSize_mean_sum,0.0267253901540789,fixation_PupilSize_mean_sum,3;4
+Sub-scanAverageWeightedDegree_sum,0.0254370466201105,Sub-scanAverageWeightedDegree_sum,3;4
+fixation_PupilPeaksAmplitude_sum_sum,0.0234713828991336,fixation_PupilPeaksAmplitude_sum_sum,3;4
+fixation_PupilSize_sum_sum,0.022853662496339,fixation_PupilSize_sum_sum,3;4
+fixation_PupilSize_median_sum,0.0116653771266781,fixation_PupilSize_median_sum,3;4
+Fixation Count_sum,0.0108648120297492,Fixation Count_sum,3;4
+fixation_PupilPeaksAmplitude_max_sum,0.0100405567411765,fixation_PupilPeaksAmplitude_max_sum,3;4
+fixation_PupilPeaksAmplitude_median_sum,0.24422416806132,fixation_PupilPeaksAmplitude_median_sum,4;4
+fixation_PupilSize_max_sum,0.0982058215947111,fixation_PupilSize_max_sum,4;4
+Sub-scanAverageWeightedDegree_std,0.0770240263885517,Sub-scanAverageWeightedDegree_std,4;4
+fixation_PupilPeaksAmplitude_sum_max,0.0738694125699009,fixation_PupilPeaksAmplitude_sum_max,4;4
+Sub-scanEntropy_sum,0.0718180958657479,Sub-scanEntropy_sum,4;4
+Fixation Duration_sum,0.0636323505568727,Fixation Duration_sum,4;4
+fixation_PupilPeaksAmplitude_std_sum,0.0429525712033269,fixation_PupilPeaksAmplitude_std_sum,4;4
+fixation_PupilSize_median_sum,0.042665548642434,fixation_PupilSize_median_sum,4;4
+horizontal saccade_sum,0.0368035560888994,horizontal saccade_sum,4;4
+fixation_PupilSize_std_sum,0.0324615047102376,fixation_PupilSize_std_sum,4;4
+fixation_PupilPeaksAmplitude_mean_sum,0.0324459746598655,fixation_PupilPeaksAmplitude_mean_sum,4;4
+fixation_PupilPeaksAmplitude_max_sum,0.0282509523988158,fixation_PupilPeaksAmplitude_max_sum,4;4
+fixation_NumberOfPupilPeaks_sum,0.0278636386767874,fixation_NumberOfPupilPeaks_sum,4;4
+horizontal saccade_std,0.0274260436705569,horizontal saccade_std,4;4
+Sub-scanAverageWeightedDegree_sum,0.0272116190757343,Sub-scanAverageWeightedDegree_sum,4;4
+fixation_PupilPeaksAmplitude_min_sum,0.0223119205211051,fixation_PupilPeaksAmplitude_min_sum,4;4
+non-horizontal saccade_mean,0.0202196918853572,non-horizontal saccade_mean,4;4
+Sub-scanDensity_sum,0.0120959237696754,Sub-scanDensity_sum,4;4
+fixation_PupilPeaksAmplitude_sum_sum,0.0106523333625849,fixation_PupilPeaksAmplitude_sum_sum,4;4
+Fixation Count_sum,0.0078648462975145,Fixation Count_sum,4;4
+fixation_PupilSize_std_sum,0.3419036801904784,fixation_PupilSize_std_sum,5;4
+fixation_NumberOfPupilPeaks_sum,0.0755847993539392,fixation_NumberOfPupilPeaks_sum,5;4
+fixation_PupilPeaksAmplitude_std_sum,0.0555179541100328,fixation_PupilPeaksAmplitude_std_sum,5;4
+fixation_PupilPeaksAmplitude_min_sum,0.0502665734997139,fixation_PupilPeaksAmplitude_min_sum,5;4
+Fixation Count_sum,0.0488768923731002,Fixation Count_sum,5;4
+fixation_PupilSize_max_sum,0.0462451797034909,fixation_PupilSize_max_sum,5;4
+Sub-scanAverageWeightedDegree_sum,0.0445761300977381,Sub-scanAverageWeightedDegree_sum,5;4
+Sub-scanNtranstions_sum,0.043777860208332,Sub-scanNtranstions_sum,5;4
+fixation_PupilSize_min_sum,0.040101421952483,fixation_PupilSize_min_sum,5;4
+Fixation Duration_sum,0.0398664996028671,Fixation Duration_sum,5;4
+non-horizontal saccade_sum,0.0328525638757578,non-horizontal saccade_sum,5;4
+horizontal saccade_mean,0.0302048969119587,horizontal saccade_mean,5;4
+fixation_PupilPeaksAmplitude_max_sum,0.0260606472563678,fixation_PupilPeaksAmplitude_max_sum,5;4
+fixation_PupilPeaksAmplitude_sum_sum,0.024586974624281,fixation_PupilPeaksAmplitude_sum_sum,5;4
+fixation_PupilSize_sum_sum,0.0243189782124963,fixation_PupilSize_sum_sum,5;4
+Sub-scanDensity_sum,0.0209068850910328,Sub-scanDensity_sum,5;4
+fixation_PupilPeaksAmplitude_mean_sum,0.0197904335162057,fixation_PupilPeaksAmplitude_mean_sum,5;4
+Sub-scanNUniqueVisits_sum,0.0165106823989715,Sub-scanNUniqueVisits_sum,5;4
+fixation_PupilPeaksAmplitude_median_sum,0.0131696699700438,fixation_PupilPeaksAmplitude_median_sum,5;4
+fixation_PupilSize_median_sum,0.0048812770507081,fixation_PupilSize_median_sum,5;4
+Sub-scanAverageWeightedDegree_sum,0.3479628839512804,Sub-scanAverageWeightedDegree_sum,6;4
+fixation_PupilSize_min_sum,0.0715714139623254,fixation_PupilSize_min_sum,6;4
+saccadic amplitude_sum,0.0711475793265557,saccadic amplitude_sum,6;4
+fixation_PupilSize_max_sum,0.0677207290925668,fixation_PupilSize_max_sum,6;4
+Sub-scanDensity_sum,0.0442462156969698,Sub-scanDensity_sum,6;4
+Fixation Count_sum,0.0437900843393888,Fixation Count_sum,6;4
+non-horizontal saccade_sum,0.0401536683460171,non-horizontal saccade_sum,6;4
+fixation_PupilSize_std_sum,0.0390655485853911,fixation_PupilSize_std_sum,6;4
+Sub-scanNUniqueVisits_sum,0.0387271843569572,Sub-scanNUniqueVisits_sum,6;4
+Fixation Duration_sum,0.0339656819207972,Fixation Duration_sum,6;4
+fixation_PupilPeaksAmplitude_median_sum,0.0328713070083135,fixation_PupilPeaksAmplitude_median_sum,6;4
+Sub-scanNtranstions_sum,0.0319868607777554,Sub-scanNtranstions_sum,6;4
+horizontal saccade_std,0.0312107183709774,horizontal saccade_std,6;4
+fixation_NumberOfPupilPeaks_sum,0.0275428123411192,fixation_NumberOfPupilPeaks_sum,6;4
+fixation_PupilPeaksAmplitude_max_sum,0.024529852849529,fixation_PupilPeaksAmplitude_max_sum,6;4
+fixation_PupilPeaksAmplitude_mean_sum,0.0221377536337828,fixation_PupilPeaksAmplitude_mean_sum,6;4
+fixation_PupilPeaksAmplitude_min_sum,0.0164505375929708,fixation_PupilPeaksAmplitude_min_sum,6;4
+fixation_PupilSize_mean_sum,0.0101253347271872,fixation_PupilSize_mean_sum,6;4
+fixation_PupilSize_median_sum,0.0047938331201146,fixation_PupilSize_median_sum,6;4
+fixation_PupilSize_sum_sum,0.0,fixation_PupilSize_sum_sum,6;4
+horizontal saccade_sum,0.2901770430797288,horizontal saccade_sum,7;4
+Sub-scanEntropy_sum,0.1081392369674666,Sub-scanEntropy_sum,7;4
+fixation_PupilPeaksAmplitude_std_sum,0.0716078006261254,fixation_PupilPeaksAmplitude_std_sum,7;4
+saccadic amplitude_sum,0.0701938489002207,saccadic amplitude_sum,7;4
+fixation_PupilSize_max_sum,0.0686717502126865,fixation_PupilSize_max_sum,7;4
+fixation_PupilPeaksAmplitude_mean_sum,0.0644207612318066,fixation_PupilPeaksAmplitude_mean_sum,7;4
+Fixation Count 250_mean,0.0578757061002256,Fixation Count 250_mean,7;4
+fixation_PupilSize_std_sum,0.0462291373621144,fixation_PupilSize_std_sum,7;4
+Sub-scanNtranstions_sum,0.0409829237005028,Sub-scanNtranstions_sum,7;4
+fixation_PupilPeaksAmplitude_max_sum,0.0407576762094108,fixation_PupilPeaksAmplitude_max_sum,7;4
+fixation_PupilSize_min_sum,0.0288703445049762,fixation_PupilSize_min_sum,7;4
+non-horizontal saccade_sum,0.027458313085771,non-horizontal saccade_sum,7;4
+Fixation Count 250_std,0.0207543815653802,Fixation Count 250_std,7;4
+horizontal saccade_mean,0.0200905582574692,horizontal saccade_mean,7;4
+Fixation Duration_sum,0.0177169798981821,Fixation Duration_sum,7;4
+Fixation Count_sum,0.0164818225839301,Fixation Count_sum,7;4
+fixation_PupilSize_sum_sum,0.005363553023504,fixation_PupilSize_sum_sum,7;4
+fixation_PupilSize_mean_sum,0.0022619185164519,fixation_PupilSize_mean_sum,7;4
+fixation_NumberOfPupilPeaks_sum,0.001946244174046,fixation_NumberOfPupilPeaks_sum,7;4
+fixation_PupilSize_median_sum,0.0,fixation_PupilSize_median_sum,7;4
+fixation_PupilSize_std_sum,0.2813749312516133,fixation_PupilSize_std_sum,8;4
+fixation_PupilSize_min_sum,0.0822458797709366,fixation_PupilSize_min_sum,8;4
+Fixation Count 250_std,0.0581167844812772,Fixation Count 250_std,8;4
+horizontal saccade_sum,0.0546219800264068,horizontal saccade_sum,8;4
+Fixation Count_sum,0.0531687360384169,Fixation Count_sum,8;4
+saccadic amplitude_sum,0.0513873698102007,saccadic amplitude_sum,8;4
+fixation_PupilSize_max_sum,0.0483012538470834,fixation_PupilSize_max_sum,8;4
+Fixation Duration_sum,0.0477634530520397,Fixation Duration_sum,8;4
+Sub-scanDensity_sum,0.0454827303218626,Sub-scanDensity_sum,8;4
+non-horizontal saccade_sum,0.0453523691724194,non-horizontal saccade_sum,8;4
+Sub-scanAverageWeightedDegree_sum,0.04269619106327,Sub-scanAverageWeightedDegree_sum,8;4
+fixation_PupilSize_median_sum,0.0376354606745305,fixation_PupilSize_median_sum,8;4
+fixation_PupilPeaksAmplitude_mean_sum,0.0290342286914791,fixation_PupilPeaksAmplitude_mean_sum,8;4
+Sub-scanNUniqueVisits_sum,0.0282655901254872,Sub-scanNUniqueVisits_sum,8;4
+fixation_PupilSize_sum_sum,0.0244416788092333,fixation_PupilSize_sum_sum,8;4
+fixation_PupilPeaksAmplitude_median_sum,0.0231309607741965,fixation_PupilPeaksAmplitude_median_sum,8;4
+fixation_NumberOfPupilPeaks_sum,0.0222948348148407,fixation_NumberOfPupilPeaks_sum,8;4
+fixation_PupilPeaksAmplitude_sum_sum,0.0141584318985673,fixation_PupilPeaksAmplitude_sum_sum,8;4
+fixation_PupilSize_mean_sum,0.0078437479273184,fixation_PupilSize_mean_sum,8;4
+fixation_PupilPeaksAmplitude_max_sum,0.0026833874488194,fixation_PupilPeaksAmplitude_max_sum,8;4
+fixation_PupilPeaksAmplitude_min_sum,0.2825848422909422,fixation_PupilPeaksAmplitude_min_sum,9;4
+fixation_PupilSize_max_sum,0.0774334249673986,fixation_PupilSize_max_sum,9;4
+Fixation Duration_sum,0.0752710115009766,Fixation Duration_sum,9;4
+fixation_PupilPeaksAmplitude_sum_sum,0.0637589832653022,fixation_PupilPeaksAmplitude_sum_sum,9;4
+Fixation Count_sum,0.056785435965509,Fixation Count_sum,9;4
+fixation_PupilSize_std_sum,0.0545987376008914,fixation_PupilSize_std_sum,9;4
+fixation_PupilSize_min_sum,0.0544674177926298,fixation_PupilSize_min_sum,9;4
+saccadic amplitude_sum,0.0497079856912675,saccadic amplitude_sum,9;4
+Sub-scanNUniqueVisits_sum,0.0372115564489466,Sub-scanNUniqueVisits_sum,9;4
+fixation_NumberOfPupilPeaks_sum,0.0325047499655296,fixation_NumberOfPupilPeaks_sum,9;4
+Sub-scanNUniqueVisits_min,0.0322651716059248,Sub-scanNUniqueVisits_min,9;4
+fixation_PupilPeaksAmplitude_median_sum,0.0305909528484848,fixation_PupilPeaksAmplitude_median_sum,9;4
+non-horizontal saccade_sum,0.0269609472238836,non-horizontal saccade_sum,9;4
+fixation_PupilPeaksAmplitude_std_sum,0.0268347630290936,fixation_PupilPeaksAmplitude_std_sum,9;4
+fixation_PupilPeaksAmplitude_max_sum,0.026083187279111,fixation_PupilPeaksAmplitude_max_sum,9;4
+horizontal saccade_sum,0.0248855076056156,horizontal saccade_sum,9;4
+fixation_PupilPeaksAmplitude_mean_sum,0.0175048738505321,fixation_PupilPeaksAmplitude_mean_sum,9;4
+fixation_PupilSize_median_sum,0.0138156856524548,fixation_PupilSize_median_sum,9;4
+Sub-scanDensity_sum,0.0137890975861892,Sub-scanDensity_sum,9;4
+Sub-scanAverageWeightedDegree_sum,0.0029456678293161,Sub-scanAverageWeightedDegree_sum,9;4
+Sub-scanAverageWeightedDegree_sum,0.2553810674751586,Sub-scanAverageWeightedDegree_sum,0;5
+fixation_PupilSize_max_sum,0.1061458427897237,fixation_PupilSize_max_sum,0;5
+fixation_PupilSize_min_sum,0.084905185781387,fixation_PupilSize_min_sum,0;5
+fixation_PupilPeaksAmplitude_mean_sum,0.0550346677532541,fixation_PupilPeaksAmplitude_mean_sum,0;5
+saccadic amplitude_sum,0.0480102350162566,saccadic amplitude_sum,0;5
+Sub-scanNUniqueVisits_sum,0.0466204142900356,Sub-scanNUniqueVisits_sum,0;5
+Fixation Duration_sum,0.0462255500692928,Fixation Duration_sum,0;5
+fixation_PupilPeaksAmplitude_sum_sum,0.0420884611940744,fixation_PupilPeaksAmplitude_sum_sum,0;5
+fixation_PupilSize_mean_sum,0.0386526677009061,fixation_PupilSize_mean_sum,0;5
+horizontal saccade_mean,0.0380777619684743,horizontal saccade_mean,0;5
+fixation_PupilSize_std_sum,0.0311062945130367,fixation_PupilSize_std_sum,0;5
+fixation_PupilPeaksAmplitude_max_sum,0.0292616893019486,fixation_PupilPeaksAmplitude_max_sum,0;5
+horizontal saccade_sum,0.0262894787241451,horizontal saccade_sum,0;5
+fixation_NumberOfPupilPeaks_sum,0.0256091762311046,fixation_NumberOfPupilPeaks_sum,0;5
+Fixation Count_sum,0.0249603473997006,Fixation Count_sum,0;5
+non-horizontal saccade_sum,0.0228470949298299,non-horizontal saccade_sum,0;5
+fixation_PupilSize_median_sum,0.0220735837159621,fixation_PupilSize_median_sum,0;5
+Sub-scanDensity_sum,0.0217839479438113,Sub-scanDensity_sum,0;5
+Sub-scanNUniqueVisits_min,0.020432729891142,Sub-scanNUniqueVisits_min,0;5
+fixation_PupilSize_sum_sum,0.0144938033107549,fixation_PupilSize_sum_sum,0;5
+horizontal saccade_sum,0.2301229740451093,horizontal saccade_sum,1;5
+fixation_PupilSize_median_sum,0.1010072432990636,fixation_PupilSize_median_sum,1;5
+saccadic amplitude_sum,0.0636274409478922,saccadic amplitude_sum,1;5
+fixation_PupilSize_min_sum,0.0635381274978497,fixation_PupilSize_min_sum,1;5
+Fixation Duration_sum,0.0607596645019652,Fixation Duration_sum,1;5
+fixation_PupilSize_max_sum,0.0535693042040703,fixation_PupilSize_max_sum,1;5
+fixation_PupilPeaksAmplitude_mean_sum,0.0455624540803385,fixation_PupilPeaksAmplitude_mean_sum,1;5
+fixation_PupilSize_std_sum,0.0409447309560644,fixation_PupilSize_std_sum,1;5
+horizontal saccade_mean,0.040247800475919,horizontal saccade_mean,1;5
+horizontal saccade_std,0.038955695792353,horizontal saccade_std,1;5
+Sub-scanNUniqueVisits_sum,0.0381822748804988,Sub-scanNUniqueVisits_sum,1;5
+Sub-scanNUniqueVisits_std,0.0380385323119387,Sub-scanNUniqueVisits_std,1;5
+Sub-scanNtranstions_sum,0.0350334662334013,Sub-scanNtranstions_sum,1;5
+fixation_PupilPeaksAmplitude_sum_sum,0.0331799925643364,fixation_PupilPeaksAmplitude_sum_sum,1;5
+Fixation Count_sum,0.027353920583061,Fixation Count_sum,1;5
+Sub-scanDensity_sum,0.0264583912391065,Sub-scanDensity_sum,1;5
+IsfixationInSpatialTemporalCluster_sum,0.0249117200102374,IsfixationInSpatialTemporalCluster_sum,1;5
+Sub-scanAverageWeightedDegree_sum,0.024753999574119,Sub-scanAverageWeightedDegree_sum,1;5
+fixation_PupilPeaksAmplitude_max_sum,0.0137522668026748,fixation_PupilPeaksAmplitude_max_sum,1;5
+non-horizontal saccade_sum,0.0,non-horizontal saccade_sum,1;5
+fixation_PupilSize_std_sum,0.2878635770666433,fixation_PupilSize_std_sum,2;5
+fixation_PupilPeaksAmplitude_max_sum,0.0807334519676148,fixation_PupilPeaksAmplitude_max_sum,2;5
+fixation_NumberOfPupilPeaks_mean,0.0675729776509579,fixation_NumberOfPupilPeaks_mean,2;5
+Sub-scanAverageWeightedDegree_sum,0.0513162510890013,Sub-scanAverageWeightedDegree_sum,2;5
+non-horizontal saccade_sum,0.0499180533445665,non-horizontal saccade_sum,2;5
+Fixation Duration_sum,0.0468880694943082,Fixation Duration_sum,2;5
+fixation_PupilSize_min_sum,0.0411617948525648,fixation_PupilSize_min_sum,2;5
+horizontal saccade_std,0.0395647522932917,horizontal saccade_std,2;5
+fixation_PupilPeaksAmplitude_mean_sum,0.0394601011502262,fixation_PupilPeaksAmplitude_mean_sum,2;5
+Sub-scanNUniqueVisits_sum,0.0372549954678028,Sub-scanNUniqueVisits_sum,2;5
+fixation_PupilSize_median_sum,0.0355300555362858,fixation_PupilSize_median_sum,2;5
+horizontal saccade_sum,0.0306417717673331,horizontal saccade_sum,2;5
+fixation_PupilSize_mean_sum,0.0304814764945016,fixation_PupilSize_mean_sum,2;5
+fixation_PupilSize_sum_sum,0.0283970068834256,fixation_PupilSize_sum_sum,2;5
+Fixation Count 250_sum,0.0274547590147603,Fixation Count 250_sum,2;5
+saccadic amplitude_sum,0.0264403966421896,saccadic amplitude_sum,2;5
+fixation_PupilSize_max_sum,0.0216418668096948,fixation_PupilSize_max_sum,2;5
+Sub-scanDensity_sum,0.0211725202122615,Sub-scanDensity_sum,2;5
+fixation_PupilPeaksAmplitude_min_sum,0.019657738106027,fixation_PupilPeaksAmplitude_min_sum,2;5
+fixation_PupilPeaksAmplitude_sum_sum,0.0168483841565423,fixation_PupilPeaksAmplitude_sum_sum,2;5
+Fixation Count_sum,0.2049093766014556,Fixation Count_sum,3;5
+fixation_PupilSize_max_sum,0.1047202463473766,fixation_PupilSize_max_sum,3;5
+Sub-scanNUniqueVisits_mean,0.088341150425894,Sub-scanNUniqueVisits_mean,3;5
+Fixation Duration_sum,0.0823832295837769,Fixation Duration_sum,3;5
+fixation_PupilPeaksAmplitude_min_sum,0.0779126014468958,fixation_PupilPeaksAmplitude_min_sum,3;5
+fixation_PupilSize_std_sum,0.0701308762436327,fixation_PupilSize_std_sum,3;5
+horizontal saccade_std,0.0527710184177822,horizontal saccade_std,3;5
+fixation_PupilSize_min_sum,0.0422966826603201,fixation_PupilSize_min_sum,3;5
+Sub-scanDensity_max,0.0388810903398973,Sub-scanDensity_max,3;5
+fixation_PupilPeaksAmplitude_max_sum,0.0335000436626852,fixation_PupilPeaksAmplitude_max_sum,3;5
+fixation_PupilSize_median_sum,0.0332867380643282,fixation_PupilSize_median_sum,3;5
+Sub-scanDensity_sum,0.0304448510406659,Sub-scanDensity_sum,3;5
+fixation_PupilPeaksAmplitude_min_min,0.0291527436957916,fixation_PupilPeaksAmplitude_min_min,3;5
+fixation_NumberOfPupilPeaks_sum,0.0229012444918629,fixation_NumberOfPupilPeaks_sum,3;5
+Sub-scanAverageWeightedDegree_sum,0.0192947647754622,Sub-scanAverageWeightedDegree_sum,3;5
+fixation_PupilSize_sum_sum,0.0183261169740688,fixation_PupilSize_sum_sum,3;5
+no saccade_sum,0.0181017919337059,no saccade_sum,3;5
+fixation_PupilPeaksAmplitude_sum_sum,0.0151160069338008,fixation_PupilPeaksAmplitude_sum_sum,3;5
+horizontal saccade_sum,0.0149744150215681,horizontal saccade_sum,3;5
+fixation_PupilSize_mean_sum,0.0025550113390284,fixation_PupilSize_mean_sum,3;5
+fixation_PupilPeaksAmplitude_median_sum,0.2556294911336212,fixation_PupilPeaksAmplitude_median_sum,4;5
+Sub-scanNUniqueVisits_mean,0.0929259702573271,Sub-scanNUniqueVisits_mean,4;5
+fixation_PupilSize_std_sum,0.0798231029464571,fixation_PupilSize_std_sum,4;5
+fixation_PupilPeaksAmplitude_sum_sum,0.0694539963159042,fixation_PupilPeaksAmplitude_sum_sum,4;5
+fixation_PupilPeaksAmplitude_std_sum,0.0629942075823431,fixation_PupilPeaksAmplitude_std_sum,4;5
+fixation_PupilSize_max_sum,0.0597632550955857,fixation_PupilSize_max_sum,4;5
+fixation_PupilSize_sum_sum,0.0449932842289412,fixation_PupilSize_sum_sum,4;5
+Sub-scanNUniqueVisits_sum,0.0348979731807864,Sub-scanNUniqueVisits_sum,4;5
+fixation_PupilPeaksAmplitude_mean_sum,0.0329012326287081,fixation_PupilPeaksAmplitude_mean_sum,4;5
+fixation_PupilSize_mean_sum,0.0296280603993754,fixation_PupilSize_mean_sum,4;5
+Sub-scanAverageWeightedDegree_sum,0.0287978040886662,Sub-scanAverageWeightedDegree_sum,4;5
+fixation_NumberOfPupilPeaks_sum,0.0284464997058048,fixation_NumberOfPupilPeaks_sum,4;5
+Sub-scanEntropy_sum,0.0279569180576203,Sub-scanEntropy_sum,4;5
+fixation_PupilPeaksAmplitude_max_sum,0.0266966115283621,fixation_PupilPeaksAmplitude_max_sum,4;5
+Fixation Count_sum,0.0264450348523047,Fixation Count_sum,4;5
+horizontal saccade_sum,0.0257020035219765,horizontal saccade_sum,4;5
+Sub-scanNUniqueVisits_min,0.0208190736153163,Sub-scanNUniqueVisits_min,4;5
+Sub-scanDensity_sum,0.0207565868119516,Sub-scanDensity_sum,4;5
+no saccade_sum,0.0173344262309095,no saccade_sum,4;5
+fixation_PupilSize_median_sum,0.0140344678180375,fixation_PupilSize_median_sum,4;5
+Sub-scanAverageWeightedDegree_sum,0.2768255198891575,Sub-scanAverageWeightedDegree_sum,5;5
+fixation_PupilSize_std_sum,0.1098002217103796,fixation_PupilSize_std_sum,5;5
+fixation_PupilSize_max_sum,0.083274416611898,fixation_PupilSize_max_sum,5;5
+fixation_PupilPeaksAmplitude_min_sum,0.0707253048982398,fixation_PupilPeaksAmplitude_min_sum,5;5
+Fixation Count 250_mean,0.0567644075907283,Fixation Count 250_mean,5;5
+horizontal saccade_std,0.0539424186483746,horizontal saccade_std,5;5
+Sub-scanNUniqueVisits_sum,0.0525718497144606,Sub-scanNUniqueVisits_sum,5;5
+horizontal saccade_mean,0.0376263773734812,horizontal saccade_mean,5;5
+fixation_PupilSize_median_sum,0.0325867821996771,fixation_PupilSize_median_sum,5;5
+fixation_PupilSize_min_sum,0.03231752048059,fixation_PupilSize_min_sum,5;5
+Sub-scanAverageWeightedDegree_max,0.0296681294702854,Sub-scanAverageWeightedDegree_max,5;5
+Fixation Duration_sum,0.0261386984023401,Fixation Duration_sum,5;5
+fixation_PupilPeaksAmplitude_sum_sum,0.0259966018072666,fixation_PupilPeaksAmplitude_sum_sum,5;5
+non-horizontal saccade_sum,0.0244986053595012,non-horizontal saccade_sum,5;5
+fixation_PupilPeaksAmplitude_max_sum,0.024251910946318,fixation_PupilPeaksAmplitude_max_sum,5;5
+Fixation Count 250_sum,0.0234337600590586,Fixation Count 250_sum,5;5
+Fixation Count_sum,0.0216480185692233,Fixation Count_sum,5;5
+fixation_NumberOfPupilPeaks_sum,0.0092617053481608,fixation_NumberOfPupilPeaks_sum,5;5
+Sub-scanDensity_sum,0.0077692004634398,Sub-scanDensity_sum,5;5
+horizontal saccade_sum,0.0008985504574187,horizontal saccade_sum,5;5
+Sub-scanDensity_sum,0.2450517312456873,Sub-scanDensity_sum,6;5
+fixation_PupilPeaksAmplitude_min_sum,0.0806943409887005,fixation_PupilPeaksAmplitude_min_sum,6;5
+fixation_PupilSize_std_sum,0.078822709769295,fixation_PupilSize_std_sum,6;5
+fixation_PupilSize_max_sum,0.0710850827628234,fixation_PupilSize_max_sum,6;5
+horizontal saccade_std,0.0667733085672624,horizontal saccade_std,6;5
+fixation_NumberOfPupilPeaks_sum,0.0571899618606347,fixation_NumberOfPupilPeaks_sum,6;5
+Fixation Duration_sum,0.0548350996728614,Fixation Duration_sum,6;5
+fixation_PupilPeaksAmplitude_sum_sum,0.0493689151631524,fixation_PupilPeaksAmplitude_sum_sum,6;5
+Sub-scanEntropy_sum,0.0466352844857683,Sub-scanEntropy_sum,6;5
+fixation_PupilPeaksAmplitude_max_sum,0.0395666273417636,fixation_PupilPeaksAmplitude_max_sum,6;5
+fixation_PupilSize_min_sum,0.0363125907649621,fixation_PupilSize_min_sum,6;5
+saccadic amplitude_sum,0.0340961011091543,saccadic amplitude_sum,6;5
+Sub-scanAverageWeightedDegree_sum,0.0310220893425868,Sub-scanAverageWeightedDegree_sum,6;5
+Sub-scanNUniqueVisits_sum,0.0270534659458963,Sub-scanNUniqueVisits_sum,6;5
+fixation_PupilSize_mean_sum,0.0261853697106783,fixation_PupilSize_mean_sum,6;5
+fixation_PupilSize_sum_sum,0.0230959631060931,fixation_PupilSize_sum_sum,6;5
+Fixation Count_sum,0.0131031723847927,Fixation Count_sum,6;5
+non-horizontal saccade_sum,0.0084645393845646,non-horizontal saccade_sum,6;5
+fixation_PupilSize_median_sum,0.006773229523023,fixation_PupilSize_median_sum,6;5
+Sub-scanNtranstions_sum,0.0038704168702989,Sub-scanNtranstions_sum,6;5
+horizontal saccade_sum,0.2489479694388024,horizontal saccade_sum,7;5
+fixation_PupilPeaksAmplitude_sum_sum,0.085655623055294,fixation_PupilPeaksAmplitude_sum_sum,7;5
+Sub-scanEntropy_sum,0.0784745167821388,Sub-scanEntropy_sum,7;5
+fixation_PupilSize_max_sum,0.0778060683798105,fixation_PupilSize_max_sum,7;5
+fixation_PupilPeaksAmplitude_std_sum,0.0689397879368492,fixation_PupilPeaksAmplitude_std_sum,7;5
+horizontal saccade_std,0.0531190095821527,horizontal saccade_std,7;5
+fixation_PupilSize_min_sum,0.0488719584480732,fixation_PupilSize_min_sum,7;5
+fixation_NumberOfPupilPeaks_sum,0.0450043484401196,fixation_NumberOfPupilPeaks_sum,7;5
+Sub-scanDensity_sum,0.0369338909848616,Sub-scanDensity_sum,7;5
+Fixation Duration_sum,0.031962312978688,Fixation Duration_sum,7;5
+non-horizontal saccade_sum,0.0292675294979579,non-horizontal saccade_sum,7;5
+Fixation Count 250_sum,0.0280342696663386,Fixation Count 250_sum,7;5
+fixation_PupilSize_mean_sum,0.0277076514149081,fixation_PupilSize_mean_sum,7;5
+saccadic amplitude_sum,0.0257840980939612,saccadic amplitude_sum,7;5
+fixation_PupilSize_median_sum,0.0257583064512104,fixation_PupilSize_median_sum,7;5
+Sub-scanAverageWeightedDegree_sum,0.0251801394313678,Sub-scanAverageWeightedDegree_sum,7;5
+fixation_PupilSize_std_sum,0.0228940823543872,fixation_PupilSize_std_sum,7;5
+horizontal saccade_mean,0.0190985386370633,horizontal saccade_mean,7;5
+Fixation Count_sum,0.0153134792231917,Fixation Count_sum,7;5
+fixation_PupilSize_sum_sum,0.0052464192028228,fixation_PupilSize_sum_sum,7;5
+fixation_PupilSize_std_sum,0.2586459302221348,fixation_PupilSize_std_sum,8;5
+non-horizontal saccade_mean,0.0985359051538752,non-horizontal saccade_mean,8;5
+fixation_PupilPeaksAmplitude_min_min,0.0764419813764802,fixation_PupilPeaksAmplitude_min_min,8;5
+fixation_PupilSize_max_sum,0.0698856956419649,fixation_PupilSize_max_sum,8;5
+Sub-scanAverageWeightedDegree_sum,0.0627154248413258,Sub-scanAverageWeightedDegree_sum,8;5
+fixation_PupilPeaksAmplitude_max_sum,0.0581196401304234,fixation_PupilPeaksAmplitude_max_sum,8;5
+horizontal saccade_sum,0.0543700961006112,horizontal saccade_sum,8;5
+horizontal saccade_std,0.053115310575535,horizontal saccade_std,8;5
+Fixation Duration_sum,0.0436245748707884,Fixation Duration_sum,8;5
+Sub-scanNtranstions_sum,0.0400408949554429,Sub-scanNtranstions_sum,8;5
+Sub-scanNUniqueVisits_sum,0.0356055121328282,Sub-scanNUniqueVisits_sum,8;5
+fixation_PupilSize_min_sum,0.0349941838245083,fixation_PupilSize_min_sum,8;5
+saccadic amplitude_sum,0.0343101143213422,saccadic amplitude_sum,8;5
+non-horizontal saccade_sum,0.0235694797420172,non-horizontal saccade_sum,8;5
+fixation_PupilSize_mean_sum,0.0212599524336764,fixation_PupilSize_mean_sum,8;5
+Sub-scanDensity_sum,0.0127297040807523,Sub-scanDensity_sum,8;5
+fixation_NumberOfPupilPeaks_sum,0.0117504960745405,fixation_NumberOfPupilPeaks_sum,8;5
+fixation_PupilPeaksAmplitude_sum_sum,0.0058286190845935,fixation_PupilPeaksAmplitude_sum_sum,8;5
+fixation_PupilSize_median_sum,0.004456484437159,fixation_PupilSize_median_sum,8;5
+Fixation Count_sum,0.0,Fixation Count_sum,8;5
+fixation_PupilSize_std_sum,0.2749795751154849,fixation_PupilSize_std_sum,9;5
+fixation_PupilPeaksAmplitude_max_sum,0.0824160454749057,fixation_PupilPeaksAmplitude_max_sum,9;5
+fixation_NumberOfPupilPeaks_sum,0.076679871920495,fixation_NumberOfPupilPeaks_sum,9;5
+horizontal saccade_std,0.0525846547202824,horizontal saccade_std,9;5
+fixation_PupilPeaksAmplitude_min_sum,0.0465966054241713,fixation_PupilPeaksAmplitude_min_sum,9;5
+fixation_PupilSize_max_sum,0.046561079502531,fixation_PupilSize_max_sum,9;5
+saccadic amplitude_sum,0.0446565467616857,saccadic amplitude_sum,9;5
+Fixation Duration_sum,0.0409567050272817,Fixation Duration_sum,9;5
+fixation_PupilPeaksAmplitude_median_sum,0.0405678853691159,fixation_PupilPeaksAmplitude_median_sum,9;5
+Sub-scanNUniqueVisits_sum,0.0388026119733217,Sub-scanNUniqueVisits_sum,9;5
+fixation_PupilPeaksAmplitude_sum_sum,0.0359620667988228,fixation_PupilPeaksAmplitude_sum_sum,9;5
+IsfixationInSpatialTemporalCluster_sum,0.0341038870187792,IsfixationInSpatialTemporalCluster_sum,9;5
+fixation_PupilSize_median_sum,0.0331530438527884,fixation_PupilSize_median_sum,9;5
+non-horizontal saccade_sum,0.0297429202360857,non-horizontal saccade_sum,9;5
+Sub-scanNtranstions_sum,0.0288194995914367,Sub-scanNtranstions_sum,9;5
+Fixation Count_sum,0.0224553293064306,Fixation Count_sum,9;5
+Sub-scanDensity_sum,0.0218673060544371,Sub-scanDensity_sum,9;5
+Sub-scanAverageWeightedDegree_sum,0.0211215049648358,Sub-scanAverageWeightedDegree_sum,9;5
+horizontal saccade_sum,0.0155875269021511,horizontal saccade_sum,9;5
+Sub-scanAverageWeightedDegree_min,0.0123853339849564,Sub-scanAverageWeightedDegree_min,9;5
+fixation_PupilSize_max_sum,0.3476859981868251,fixation_PupilSize_max_sum,0;6
+Fixation Count_sum,0.0672575513464457,Fixation Count_sum,0;6
+Fixation Duration 250_median,0.0613609571524042,Fixation Duration 250_median,0;6
+Sub-scanAverageWeightedDegree_sum,0.057939366032456,Sub-scanAverageWeightedDegree_sum,0;6
+fixation_PupilSize_std_sum,0.0578200439522607,fixation_PupilSize_std_sum,0;6
+Fixation Duration_sum,0.0561628282763335,Fixation Duration_sum,0;6
+fixation_PupilPeaksAmplitude_std_sum,0.0557334351178509,fixation_PupilPeaksAmplitude_std_sum,0;6
+fixation_PupilPeaksAmplitude_max_sum,0.0402653298861757,fixation_PupilPeaksAmplitude_max_sum,0;6
+saccadic amplitude_sum,0.0376451881493884,saccadic amplitude_sum,0;6
+Sub-scanNUniqueVisits_min,0.0352997293987584,Sub-scanNUniqueVisits_min,0;6
+Sub-scanDensity_sum,0.0346615282453969,Sub-scanDensity_sum,0;6
+fixation_PupilSize_min_sum,0.0338384296323913,fixation_PupilSize_min_sum,0;6
+fixation_NumberOfPupilPeaks_sum,0.0304251706484927,fixation_NumberOfPupilPeaks_sum,0;6
+fixation_PupilSize_sum_sum,0.0181980663938254,fixation_PupilSize_sum_sum,0;6
+horizontal saccade_sum,0.0161405624317437,horizontal saccade_sum,0;6
+Fixation Count 250_sum,0.0159778514115641,Fixation Count 250_sum,0;6
+fixation_PupilSize_median_sum,0.0146769477754584,fixation_PupilSize_median_sum,0;6
+fixation_PupilPeaksAmplitude_mean_sum,0.0086019227183535,fixation_PupilPeaksAmplitude_mean_sum,0;6
+fixation_PupilSize_mean_sum,0.0072921656865394,fixation_PupilSize_mean_sum,0;6
+fixation_PupilPeaksAmplitude_median_sum,0.0030169275573352,fixation_PupilPeaksAmplitude_median_sum,0;6
+horizontal saccade_sum,0.2388019092056917,horizontal saccade_sum,1;6
+fixation_PupilSize_max_sum,0.0831319622118917,fixation_PupilSize_max_sum,1;6
+fixation_PupilSize_std_sum,0.0799633832188813,fixation_PupilSize_std_sum,1;6
+fixation_PupilSize_min_sum,0.0696657352574198,fixation_PupilSize_min_sum,1;6
+saccadic amplitude_sum,0.0675973162146358,saccadic amplitude_sum,1;6
+horizontal saccade_std,0.0549928980022049,horizontal saccade_std,1;6
+Fixation Duration_sum,0.0537229999663295,Fixation Duration_sum,1;6
+Sub-scanNUniqueVisits_sum,0.0514426420366686,Sub-scanNUniqueVisits_sum,1;6
+fixation_PupilSize_median_sum,0.0395832704440606,fixation_PupilSize_median_sum,1;6
+Sub-scanEntropy_sum,0.0352610857519959,Sub-scanEntropy_sum,1;6
+Sub-scanAverageWeightedDegree_sum,0.0343586463760191,Sub-scanAverageWeightedDegree_sum,1;6
+fixation_PupilPeaksAmplitude_sum_sum,0.0342855973222909,fixation_PupilPeaksAmplitude_sum_sum,1;6
+fixation_PupilPeaksAmplitude_median_sum,0.0327438604149997,fixation_PupilPeaksAmplitude_median_sum,1;6
+horizontal saccade_mean,0.0303976576492888,horizontal saccade_mean,1;6
+fixation_PupilPeaksAmplitude_mean_sum,0.0264919352661034,fixation_PupilPeaksAmplitude_mean_sum,1;6
+fixation_PupilPeaksAmplitude_max_sum,0.0213804097510757,fixation_PupilPeaksAmplitude_max_sum,1;6
+Sub-scanNtranstions_sum,0.0195531297018211,Sub-scanNtranstions_sum,1;6
+Sub-scanDensity_sum,0.0175405387295631,Sub-scanDensity_sum,1;6
+fixation_NumberOfPupilPeaks_sum,0.0090850224790574,fixation_NumberOfPupilPeaks_sum,1;6
+Fixation Count_sum,0.0,Fixation Count_sum,1;6
+fixation_PupilSize_std_sum,0.3186236395865079,fixation_PupilSize_std_sum,2;6
+fixation_PupilSize_min_sum,0.0689617833596167,fixation_PupilSize_min_sum,2;6
+Sub-scanNtranstions_sum,0.0689265868627937,Sub-scanNtranstions_sum,2;6
+Sub-scanAverageWeightedDegree_sum,0.0668582308906923,Sub-scanAverageWeightedDegree_sum,2;6
+fixation_NumberOfPupilPeaks_sum,0.0643308211662575,fixation_NumberOfPupilPeaks_sum,2;6
+fixation_PupilPeaksAmplitude_min_sum,0.0611554958454111,fixation_PupilPeaksAmplitude_min_sum,2;6
+horizontal saccade_std,0.0606844336991858,horizontal saccade_std,2;6
+Fixation Duration_sum,0.0563803991579085,Fixation Duration_sum,2;6
+fixation_PupilPeaksAmplitude_mean_sum,0.0465792271944175,fixation_PupilPeaksAmplitude_mean_sum,2;6
+fixation_PupilPeaksAmplitude_sum_sum,0.0330250901392882,fixation_PupilPeaksAmplitude_sum_sum,2;6
+non-horizontal saccade_sum,0.0309193602237344,non-horizontal saccade_sum,2;6
+Sub-scanDensity_sum,0.0267841957062881,Sub-scanDensity_sum,2;6
+fixation_PupilSize_max_sum,0.0260626051974021,fixation_PupilSize_max_sum,2;6
+Fixation Count_sum,0.0165899605448711,Fixation Count_sum,2;6
+fixation_PupilSize_median_sum,0.0140319807770564,fixation_PupilSize_median_sum,2;6
+Sub-scanNUniqueVisits_sum,0.0129848345033895,Sub-scanNUniqueVisits_sum,2;6
+fixation_PupilPeaksAmplitude_max_sum,0.0126163422569302,fixation_PupilPeaksAmplitude_max_sum,2;6
+fixation_PupilSize_mean_sum,0.0060161395382499,fixation_PupilSize_mean_sum,2;6
+fixation_PupilSize_sum_sum,0.0044581136578313,fixation_PupilSize_sum_sum,2;6
+horizontal saccade_sum,0.0040107596921666,horizontal saccade_sum,2;6
+Fixation Count_sum,0.2178574484884239,Fixation Count_sum,3;6
+fixation_PupilSize_std_sum,0.1086973750174146,fixation_PupilSize_std_sum,3;6
+Sub-scanNUniqueVisits_mean,0.0866186442718594,Sub-scanNUniqueVisits_mean,3;6
+Fixation Duration_sum,0.0697177051089775,Fixation Duration_sum,3;6
+fixation_PupilPeaksAmplitude_sum_sum,0.0552131732163387,fixation_PupilPeaksAmplitude_sum_sum,3;6
+horizontal saccade_std,0.0483704630564161,horizontal saccade_std,3;6
+Sub-scanAverageWeightedDegree_sum,0.0469500048055954,Sub-scanAverageWeightedDegree_sum,3;6
+fixation_PupilPeaksAmplitude_max_sum,0.0465362165430154,fixation_PupilPeaksAmplitude_max_sum,3;6
+Sub-scanEntropy_mean,0.0414908266920439,Sub-scanEntropy_mean,3;6
+fixation_PupilSize_min_sum,0.0411620359114638,fixation_PupilSize_min_sum,3;6
+non-horizontal saccade_std,0.0382850842118311,non-horizontal saccade_std,3;6
+fixation_PupilPeaksAmplitude_median_sum,0.0374636115045741,fixation_PupilPeaksAmplitude_median_sum,3;6
+fixation_PupilPeaksAmplitude_min_sum,0.0347543522497071,fixation_PupilPeaksAmplitude_min_sum,3;6
+fixation_NumberOfPupilPeaks_sum,0.0316095371909551,fixation_NumberOfPupilPeaks_sum,3;6
+horizontal saccade_sum,0.0292938294586201,horizontal saccade_sum,3;6
+fixation_PupilSize_max_sum,0.0213098330875602,fixation_PupilSize_max_sum,3;6
+fixation_PupilSize_median_sum,0.0171034161575505,fixation_PupilSize_median_sum,3;6
+fixation_PupilSize_sum_sum,0.0143751390021499,fixation_PupilSize_sum_sum,3;6
+fixation_PupilSize_mean_sum,0.0068493309363184,fixation_PupilSize_mean_sum,3;6
+Sub-scanDensity_sum,0.0063419730891837,Sub-scanDensity_sum,3;6
+fixation_PupilPeaksAmplitude_median_sum,0.2312449099506961,fixation_PupilPeaksAmplitude_median_sum,4;6
+Sub-scanNUniqueVisits_mean,0.0999067617119716,Sub-scanNUniqueVisits_mean,4;6
+fixation_PupilPeaksAmplitude_std_sum,0.0896458286322377,fixation_PupilPeaksAmplitude_std_sum,4;6
+fixation_PupilSize_max_sum,0.0756334027570647,fixation_PupilSize_max_sum,4;6
+Fixation Duration_sum,0.0624004249499649,Fixation Duration_sum,4;6
+fixation_PupilPeaksAmplitude_sum_sum,0.0522742339044636,fixation_PupilPeaksAmplitude_sum_sum,4;6
+fixation_PupilSize_std_sum,0.0518446735547951,fixation_PupilSize_std_sum,4;6
+fixation_PupilPeaksAmplitude_max_sum,0.0439461693951094,fixation_PupilPeaksAmplitude_max_sum,4;6
+Sub-scanEntropy_sum,0.0389604844818709,Sub-scanEntropy_sum,4;6
+Fixation Count_sum,0.0346048643805775,Fixation Count_sum,4;6
+fixation_NumberOfPupilPeaks_sum,0.031943855285083,fixation_NumberOfPupilPeaks_sum,4;6
+Sub-scanDensity_sum,0.0305328456113944,Sub-scanDensity_sum,4;6
+fixation_PupilPeaksAmplitude_mean_sum,0.0268298252267571,fixation_PupilPeaksAmplitude_mean_sum,4;6
+fixation_PupilSize_min_sum,0.0251720747498141,fixation_PupilSize_min_sum,4;6
+Sub-scanAverageWeightedDegree_sum,0.0241037938456406,Sub-scanAverageWeightedDegree_sum,4;6
+fixation_PupilPeaksAmplitude_min_sum,0.0203516534700492,fixation_PupilPeaksAmplitude_min_sum,4;6
+horizontal saccade_sum,0.0199776654256549,horizontal saccade_sum,4;6
+fixation_PupilSize_sum_sum,0.019214092592698,fixation_PupilSize_sum_sum,4;6
+non-horizontal saccade_sum,0.0133691989738888,non-horizontal saccade_sum,4;6
+fixation_PupilSize_mean_sum,0.0080432411002676,fixation_PupilSize_mean_sum,4;6
+Sub-scanAverageWeightedDegree_sum,0.2713126911815302,Sub-scanAverageWeightedDegree_sum,5;6
+fixation_PupilSize_max_sum,0.1157741851948351,fixation_PupilSize_max_sum,5;6
+horizontal saccade_sum,0.056456057024531,horizontal saccade_sum,5;6
+saccadic amplitude_sum,0.0539444340631245,saccadic amplitude_sum,5;6
+fixation_PupilSize_std_sum,0.05113059072506,fixation_PupilSize_std_sum,5;6
+fixation_PupilPeaksAmplitude_max_sum,0.0487986109216721,fixation_PupilPeaksAmplitude_max_sum,5;6
+fixation_PupilPeaksAmplitude_min_sum,0.0482359748356133,fixation_PupilPeaksAmplitude_min_sum,5;6
+Fixation Duration_sum,0.0472271386510904,Fixation Duration_sum,5;6
+fixation_PupilPeaksAmplitude_sum_sum,0.0461713008165747,fixation_PupilPeaksAmplitude_sum_sum,5;6
+Sub-scanDensity_sum,0.0432830250777387,Sub-scanDensity_sum,5;6
+fixation_NumberOfPupilPeaks_sum,0.035343691448659,fixation_NumberOfPupilPeaks_sum,5;6
+horizontal saccade_std,0.0349792629063057,horizontal saccade_std,5;6
+fixation_PupilPeaksAmplitude_median_sum,0.0329079763633381,fixation_PupilPeaksAmplitude_median_sum,5;6
+fixation_PupilPeaksAmplitude_std_sum,0.025919534510627,fixation_PupilPeaksAmplitude_std_sum,5;6
+fixation_PupilSize_min_sum,0.0240824846481519,fixation_PupilSize_min_sum,5;6
+non-horizontal saccade_sum,0.0227640294909768,non-horizontal saccade_sum,5;6
+fixation_PupilSize_sum_sum,0.0155210871470732,fixation_PupilSize_sum_sum,5;6
+Fixation Count_sum,0.0099266302381124,Fixation Count_sum,5;6
+Fixation Count 250_sum,0.0098040792475184,Fixation Count 250_sum,5;6
+fixation_PupilSize_median_sum,0.0064172155074666,fixation_PupilSize_median_sum,5;6
+fixation_PupilSize_std_sum,0.3155905443954303,fixation_PupilSize_std_sum,6;6
+Fixation Duration_sum,0.077576065721414,Fixation Duration_sum,6;6
+Fixation Duration 250_sum,0.0729049466410521,Fixation Duration 250_sum,6;6
+Sub-scanNUniqueVisits_sum,0.0538349995707997,Sub-scanNUniqueVisits_sum,6;6
+Sub-scanNtranstions_sum,0.0535625923103511,Sub-scanNtranstions_sum,6;6
+fixation_PupilSize_max_sum,0.0479105841082763,fixation_PupilSize_max_sum,6;6
+Fixation Count 250_sum,0.0462050809412482,Fixation Count 250_sum,6;6
+fixation_PupilPeaksAmplitude_max_sum,0.0422088546912184,fixation_PupilPeaksAmplitude_max_sum,6;6
+saccadic amplitude_sum,0.0389333561391946,saccadic amplitude_sum,6;6
+fixation_PupilSize_min_sum,0.037783426928365,fixation_PupilSize_min_sum,6;6
+Sub-scanAverageWeightedDegree_sum,0.0363927470948206,Sub-scanAverageWeightedDegree_sum,6;6
+Sub-scanDensity_sum,0.0344600356868073,Sub-scanDensity_sum,6;6
+fixation_PupilSize_mean_sum,0.0309639071312875,fixation_PupilSize_mean_sum,6;6
+fixation_PupilPeaksAmplitude_sum_sum,0.0279168852775124,fixation_PupilPeaksAmplitude_sum_sum,6;6
+fixation_PupilSize_sum_sum,0.0223176587943321,fixation_PupilSize_sum_sum,6;6
+non-horizontal saccade_sum,0.0186146683378933,non-horizontal saccade_sum,6;6
+fixation_PupilSize_median_sum,0.0138105716024365,fixation_PupilSize_median_sum,6;6
+fixation_NumberOfPupilPeaks_sum,0.0133983878104087,fixation_NumberOfPupilPeaks_sum,6;6
+horizontal saccade_sum,0.0080978869182909,horizontal saccade_sum,6;6
+Fixation Count_sum,0.0075167998988602,Fixation Count_sum,6;6
+Sub-scanAverageWeightedDegree_sum,0.2206404295387687,Sub-scanAverageWeightedDegree_sum,7;6
+fixation_PupilSize_max_sum,0.0956176615955133,fixation_PupilSize_max_sum,7;6
+horizontal saccade_sum,0.0634063950305998,horizontal saccade_sum,7;6
+fixation_PupilPeaksAmplitude_mean_sum,0.0586336128774249,fixation_PupilPeaksAmplitude_mean_sum,7;6
+saccadic amplitude_sum,0.0574994997985021,saccadic amplitude_sum,7;6
+fixation_PupilSize_std_sum,0.0567051163539676,fixation_PupilSize_std_sum,7;6
+fixation_PupilPeaksAmplitude_std_sum,0.05404549216647,fixation_PupilPeaksAmplitude_std_sum,7;6
+Sub-scanNtranstions_sum,0.0518738427938803,Sub-scanNtranstions_sum,7;6
+Fixation Duration_sum,0.0497621545619255,Fixation Duration_sum,7;6
+Sub-scanEntropy_sum,0.044521309775655,Sub-scanEntropy_sum,7;6
+fixation_NumberOfPupilPeaks_sum,0.0375419324757441,fixation_NumberOfPupilPeaks_sum,7;6
+horizontal saccade_std,0.035784372131183,horizontal saccade_std,7;6
+fixation_PupilPeaksAmplitude_max_sum,0.0356929112756646,fixation_PupilPeaksAmplitude_max_sum,7;6
+Fixation Count_sum,0.0244622141167906,Fixation Count_sum,7;6
+Sub-scanDensity_sum,0.0239080543226241,Sub-scanDensity_sum,7;6
+fixation_PupilPeaksAmplitude_sum_sum,0.0222140514776989,fixation_PupilPeaksAmplitude_sum_sum,7;6
+fixation_PupilSize_min_sum,0.0207890933028787,fixation_PupilSize_min_sum,7;6
+fixation_PupilSize_mean_sum,0.0201748757380052,fixation_PupilSize_mean_sum,7;6
+Sub-scanNtranstions_min,0.0162308816981702,Sub-scanNtranstions_min,7;6
+fixation_PupilSize_sum_sum,0.0104960989685324,fixation_PupilSize_sum_sum,7;6
+fixation_PupilSize_median_sum,0.2265298967002638,fixation_PupilSize_median_sum,8;6
+Sub-scanAverageWeightedDegree_sum,0.0976674229434456,Sub-scanAverageWeightedDegree_sum,8;6
+Fixation Duration_sum,0.0891862972712784,Fixation Duration_sum,8;6
+fixation_PupilSize_std_sum,0.0784346779411147,fixation_PupilSize_std_sum,8;6
+fixation_PupilSize_max_sum,0.0781940218855806,fixation_PupilSize_max_sum,8;6
+saccadic amplitude_sum,0.0559497465806946,saccadic amplitude_sum,8;6
+fixation_PupilPeaksAmplitude_min_min,0.0529646203114364,fixation_PupilPeaksAmplitude_min_min,8;6
+Sub-scanDensity_sum,0.0454153621651508,Sub-scanDensity_sum,8;6
+fixation_PupilPeaksAmplitude_median_sum,0.04431008004142,fixation_PupilPeaksAmplitude_median_sum,8;6
+fixation_NumberOfPupilPeaks_sum,0.0415772865536972,fixation_NumberOfPupilPeaks_sum,8;6
+fixation_PupilSize_min_sum,0.0407476931435651,fixation_PupilSize_min_sum,8;6
+fixation_PupilPeaksAmplitude_std_std,0.0400750172623632,fixation_PupilPeaksAmplitude_std_std,8;6
+horizontal saccade_sum,0.033027439568188,horizontal saccade_sum,8;6
+fixation_PupilPeaksAmplitude_sum_sum,0.0249558327344051,fixation_PupilPeaksAmplitude_sum_sum,8;6
+non-horizontal saccade_sum,0.0159633192670697,non-horizontal saccade_sum,8;6
+Fixation Count_sum,0.0145459888333823,Fixation Count_sum,8;6
+fixation_PupilSize_sum_sum,0.0080811049074346,fixation_PupilSize_sum_sum,8;6
+fixation_PupilPeaksAmplitude_mean_sum,0.0063133632089332,fixation_PupilPeaksAmplitude_mean_sum,8;6
+fixation_PupilPeaksAmplitude_max_sum,0.0050506905671466,fixation_PupilPeaksAmplitude_max_sum,8;6
+fixation_PupilSize_mean_sum,0.0010101381134293,fixation_PupilSize_mean_sum,8;6
+fixation_PupilPeaksAmplitude_min_sum,0.2611427989126014,fixation_PupilPeaksAmplitude_min_sum,9;6
+fixation_PupilSize_max_sum,0.0862726182892804,fixation_PupilSize_max_sum,9;6
+fixation_PupilSize_mean_sum,0.0830471115132122,fixation_PupilSize_mean_sum,9;6
+Fixation Duration_sum,0.080696405764122,Fixation Duration_sum,9;6
+fixation_PupilSize_median_sum,0.0603689077621021,fixation_PupilSize_median_sum,9;6
+fixation_PupilSize_std_sum,0.0429253849698353,fixation_PupilSize_std_sum,9;6
+fixation_PupilPeaksAmplitude_sum_sum,0.0409405345579447,fixation_PupilPeaksAmplitude_sum_sum,9;6
+horizontal saccade_sum,0.0397875564047186,horizontal saccade_sum,9;6
+saccadic amplitude_sum,0.0370227335443437,saccadic amplitude_sum,9;6
+fixation_PupilPeaksAmplitude_max_sum,0.0346059868018451,fixation_PupilPeaksAmplitude_max_sum,9;6
+Sub-scanNUniqueVisits_sum,0.0323861169999381,Sub-scanNUniqueVisits_sum,9;6
+Sub-scanAverageWeightedDegree_sum,0.0321982064662829,Sub-scanAverageWeightedDegree_sum,9;6
+Sub-scanDensity_sum,0.0306269495492719,Sub-scanDensity_sum,9;6
+non-horizontal saccade_sum,0.0269499310747517,non-horizontal saccade_sum,9;6
+fixation_PupilPeaksAmplitude_mean_sum,0.0219881466832686,fixation_PupilPeaksAmplitude_mean_sum,9;6
+fixation_PupilPeaksAmplitude_median_sum,0.0214563232855915,fixation_PupilPeaksAmplitude_median_sum,9;6
+Fixation Count_sum,0.0197226259080291,Fixation Count_sum,9;6
+fixation_NumberOfPupilPeaks_sum,0.0185588027051441,fixation_NumberOfPupilPeaks_sum,9;6
+Sub-scanNtranstions_sum,0.0148073964463997,Sub-scanNtranstions_sum,9;6
+Sub-scanNtranstions_min,0.014495462361316,Sub-scanNtranstions_min,9;6
+Sub-scanDensity_sum,0.2584047440282546,Sub-scanDensity_sum,0;7
+fixation_PupilSize_max_sum,0.1298578357157612,fixation_PupilSize_max_sum,0;7
+fixation_PupilPeaksAmplitude_std_sum,0.1003737044362794,fixation_PupilPeaksAmplitude_std_sum,0;7
+Sub-scanNUniqueVisits_sum,0.0544877160610871,Sub-scanNUniqueVisits_sum,0;7
+fixation_NumberOfPupilPeaks_sum,0.0518124469112796,fixation_NumberOfPupilPeaks_sum,0;7
+saccadic amplitude_sum,0.0441404479337044,saccadic amplitude_sum,0;7
+non-horizontal saccade_sum,0.0425111622593705,non-horizontal saccade_sum,0;7
+fixation_PupilSize_std_sum,0.0424567226446418,fixation_PupilSize_std_sum,0;7
+Fixation Duration_sum,0.041001265910879,Fixation Duration_sum,0;7
+fixation_PupilPeaksAmplitude_max_sum,0.032163654157047,fixation_PupilPeaksAmplitude_max_sum,0;7
+Sub-scanAverageWeightedDegree_max,0.0314561218619116,Sub-scanAverageWeightedDegree_max,0;7
+horizontal saccade_sum,0.0285429791003468,horizontal saccade_sum,0;7
+fixation_PupilPeaksAmplitude_sum_sum,0.0280018821738545,fixation_PupilPeaksAmplitude_sum_sum,0;7
+fixation_PupilSize_min_sum,0.0242532040481299,fixation_PupilSize_min_sum,0;7
+Sub-scanAverageWeightedDegree_sum,0.0213393695724649,Sub-scanAverageWeightedDegree_sum,0;7
+fixation_PupilPeaksAmplitude_mean_sum,0.0204253155199732,fixation_PupilPeaksAmplitude_mean_sum,0;7
+fixation_PupilSize_median_sum,0.0168892715226656,fixation_PupilSize_median_sum,0;7
+Fixation Count_sum,0.0123535399220004,Fixation Count_sum,0;7
+Sub-scanNUniqueVisits_min,0.0117104257652696,Sub-scanNUniqueVisits_min,0;7
+fixation_PupilSize_mean_sum,0.007818190455078,fixation_PupilSize_mean_sum,0;7
+horizontal saccade_sum,0.2391929238589569,horizontal saccade_sum,1;7
+Sub-scanNUniqueVisits_mean,0.1312616572106391,Sub-scanNUniqueVisits_mean,1;7
+fixation_PupilSize_median_sum,0.0735907304689073,fixation_PupilSize_median_sum,1;7
+saccadic amplitude_sum,0.0705228852579313,saccadic amplitude_sum,1;7
+fixation_PupilSize_min_sum,0.0605474717700324,fixation_PupilSize_min_sum,1;7
+Sub-scanDensity_sum,0.0567271445144733,Sub-scanDensity_sum,1;7
+Sub-scanNUniqueVisits_std,0.0489196133309421,Sub-scanNUniqueVisits_std,1;7
+Sub-scanNUniqueVisits_sum,0.0463101418775271,Sub-scanNUniqueVisits_sum,1;7
+fixation_PupilPeaksAmplitude_mean_sum,0.0388819598627201,fixation_PupilPeaksAmplitude_mean_sum,1;7
+fixation_PupilSize_max_sum,0.0378751240371565,fixation_PupilSize_max_sum,1;7
+Fixation Duration_sum,0.0348488975408993,Fixation Duration_sum,1;7
+horizontal saccade_mean,0.0321519588649517,horizontal saccade_mean,1;7
+fixation_NumberOfPupilPeaks_sum,0.02332223585199,fixation_NumberOfPupilPeaks_sum,1;7
+fixation_PupilPeaksAmplitude_sum_sum,0.0204979067988527,fixation_PupilPeaksAmplitude_sum_sum,1;7
+Sub-scanAverageWeightedDegree_sum,0.0201938748255712,Sub-scanAverageWeightedDegree_sum,1;7
+fixation_PupilPeaksAmplitude_max_sum,0.0196202642679935,fixation_PupilPeaksAmplitude_max_sum,1;7
+non-horizontal saccade_sum,0.0172273580932387,non-horizontal saccade_sum,1;7
+fixation_PupilSize_std_sum,0.0134904929998574,fixation_PupilSize_std_sum,1;7
+Fixation Count_sum,0.0097298534798534,Fixation Count_sum,1;7
+Sub-scanEntropy_min,0.005087505087505,Sub-scanEntropy_min,1;7
+fixation_PupilSize_std_sum,0.2922311872624551,fixation_PupilSize_std_sum,2;7
+fixation_NumberOfPupilPeaks_mean,0.0761687017966357,fixation_NumberOfPupilPeaks_mean,2;7
+Fixation Duration_sum,0.0709860163481524,Fixation Duration_sum,2;7
+fixation_PupilPeaksAmplitude_mean_sum,0.0682439486530587,fixation_PupilPeaksAmplitude_mean_sum,2;7
+fixation_PupilPeaksAmplitude_max_sum,0.0627986107810844,fixation_PupilPeaksAmplitude_max_sum,2;7
+Sub-scanNUniqueVisits_sum,0.0576400054444115,Sub-scanNUniqueVisits_sum,2;7
+fixation_PupilSize_max_sum,0.049739544060041,fixation_PupilSize_max_sum,2;7
+saccadic amplitude_sum,0.0418712062616848,saccadic amplitude_sum,2;7
+Sub-scanAverageWeightedDegree_sum,0.0384029453041439,Sub-scanAverageWeightedDegree_sum,2;7
+horizontal saccade_sum,0.0365761605324319,horizontal saccade_sum,2;7
+fixation_PupilSize_min_sum,0.0329982030646084,fixation_PupilSize_min_sum,2;7
+Sub-scanDensity_sum,0.0322759145510921,Sub-scanDensity_sum,2;7
+fixation_PupilSize_median_sum,0.0320157224795771,fixation_PupilSize_median_sum,2;7
+horizontal saccade_mean,0.01945491772824,horizontal saccade_mean,2;7
+fixation_PupilSize_sum_sum,0.0174159597644124,fixation_PupilSize_sum_sum,2;7
+non-horizontal saccade_sum,0.0168254498786503,non-horizontal saccade_sum,2;7
+fixation_PupilPeaksAmplitude_sum_sum,0.0155100425329825,fixation_PupilPeaksAmplitude_sum_sum,2;7
+Fixation Count_sum,0.0149782685705469,Fixation Count_sum,2;7
+horizontal saccade_std,0.0133853791722999,horizontal saccade_std,2;7
+fixation_PupilSize_mean_sum,0.0104818158134899,fixation_PupilSize_mean_sum,2;7
+Fixation Count_sum,0.216558811104349,Fixation Count_sum,3;7
+Sub-scanEntropy_mean,0.1230781615334985,Sub-scanEntropy_mean,3;7
+fixation_PupilSize_max_sum,0.1028958992996975,fixation_PupilSize_max_sum,3;7
+Sub-scanNUniqueVisits_mean,0.0799270698944523,Sub-scanNUniqueVisits_mean,3;7
+fixation_NumberOfPupilPeaks_sum,0.0790652654943446,fixation_NumberOfPupilPeaks_sum,3;7
+Fixation Duration_sum,0.0729017619550307,Fixation Duration_sum,3;7
+horizontal saccade_std,0.0472531571262008,horizontal saccade_std,3;7
+non-horizontal saccade_std,0.0401512427161236,non-horizontal saccade_std,3;7
+horizontal saccade_mean,0.0359422643765176,horizontal saccade_mean,3;7
+fixation_PupilSize_min_sum,0.0337977026088206,fixation_PupilSize_min_sum,3;7
+fixation_PupilSize_sum_sum,0.0329255466263619,fixation_PupilSize_sum_sum,3;7
+Sub-scanAverageWeightedDegree_sum,0.0256307641541865,Sub-scanAverageWeightedDegree_sum,3;7
+fixation_PupilSize_median_sum,0.0191980920000874,fixation_PupilSize_median_sum,3;7
+horizontal saccade_sum,0.0189366878198468,horizontal saccade_sum,3;7
+fixation_PupilSize_std_sum,0.0176117189023993,fixation_PupilSize_std_sum,3;7
+SpaceTimeCluster_countUniqueClusters,0.0166521541660726,SpaceTimeCluster_countUniqueClusters,3;7
+fixation_PupilPeaksAmplitude_max_sum,0.0131673060667143,fixation_PupilPeaksAmplitude_max_sum,3;7
+fixation_PupilPeaksAmplitude_sum_sum,0.0117060137664533,fixation_PupilPeaksAmplitude_sum_sum,3;7
+Sub-scanDensity_sum,0.0087964919695688,Sub-scanDensity_sum,3;7
+fixation_PupilSize_mean_sum,0.003803888419273,fixation_PupilSize_mean_sum,3;7
+fixation_PupilPeaksAmplitude_mean_sum,0.2187553344369698,fixation_PupilPeaksAmplitude_mean_sum,4;7
+Sub-scanNUniqueVisits_mean,0.1401242023726677,Sub-scanNUniqueVisits_mean,4;7
+Fixation Duration_sum,0.0841105497076485,Fixation Duration_sum,4;7
+fixation_PupilPeaksAmplitude_std_sum,0.066238266611667,fixation_PupilPeaksAmplitude_std_sum,4;7
+fixation_PupilPeaksAmplitude_sum_sum,0.0634800033512836,fixation_PupilPeaksAmplitude_sum_sum,4;7
+fixation_PupilPeaksAmplitude_sum_max,0.0620285911784844,fixation_PupilPeaksAmplitude_sum_max,4;7
+fixation_PupilSize_max_sum,0.0393977187445232,fixation_PupilSize_max_sum,4;7
+Sub-scanDensity_sum,0.0364587298247191,Sub-scanDensity_sum,4;7
+fixation_PupilSize_std_sum,0.0362313781631306,fixation_PupilSize_std_sum,4;7
+Sub-scanAverageWeightedDegree_sum,0.0326661636193026,Sub-scanAverageWeightedDegree_sum,4;7
+Sub-scanNUniqueVisits_min,0.0297572915816967,Sub-scanNUniqueVisits_min,4;7
+fixation_PupilPeaksAmplitude_max_sum,0.0281936565207709,fixation_PupilPeaksAmplitude_max_sum,4;7
+non-horizontal saccade_sum,0.028021087544897,non-horizontal saccade_sum,4;7
+horizontal saccade_sum,0.0276104427546735,horizontal saccade_sum,4;7
+fixation_PupilSize_sum_sum,0.0246612825374519,fixation_PupilSize_sum_sum,4;7
+fixation_PupilSize_mean_sum,0.02365671252767,fixation_PupilSize_mean_sum,4;7
+fixation_PupilSize_median_sum,0.0232227127136815,fixation_PupilSize_median_sum,4;7
+Sub-scanEntropy_sum,0.0231186635415491,Sub-scanEntropy_sum,4;7
+fixation_NumberOfPupilPeaks_sum,0.0076670076670076,fixation_NumberOfPupilPeaks_sum,4;7
+Fixation Count_sum,0.0046002046002045,Fixation Count_sum,4;7
+Sub-scanAverageWeightedDegree_sum,0.2348508791053843,Sub-scanAverageWeightedDegree_sum,5;7
+Sub-scanNUniqueVisits_sum,0.1171026087119228,Sub-scanNUniqueVisits_sum,5;7
+fixation_PupilSize_std_sum,0.0840854665942835,fixation_PupilSize_std_sum,5;7
+fixation_PupilPeaksAmplitude_min_sum,0.0673298082565996,fixation_PupilPeaksAmplitude_min_sum,5;7
+fixation_PupilSize_median_sum,0.0622653858173526,fixation_PupilSize_median_sum,5;7
+Fixation Duration_sum,0.0563522885088397,Fixation Duration_sum,5;7
+fixation_PupilPeaksAmplitude_sum_sum,0.0562682585210316,fixation_PupilPeaksAmplitude_sum_sum,5;7
+fixation_PupilSize_min_sum,0.0437516754810354,fixation_PupilSize_min_sum,5;7
+Fixation Count 250_sum,0.0415405563388459,Fixation Count 250_sum,5;7
+fixation_PupilPeaksAmplitude_max_sum,0.0316334367974836,fixation_PupilPeaksAmplitude_max_sum,5;7
+saccadic amplitude_sum,0.0297539162068313,saccadic amplitude_sum,5;7
+fixation_PupilSize_max_sum,0.0283823448294758,fixation_PupilSize_max_sum,5;7
+non-horizontal saccade_sum,0.0269492732342744,non-horizontal saccade_sum,5;7
+fixation_NumberOfPupilPeaks_sum,0.0263817317935144,fixation_NumberOfPupilPeaks_sum,5;7
+Fixation Count_sum,0.0232108271414072,Fixation Count_sum,5;7
+horizontal saccade_std,0.0189852606678906,horizontal saccade_std,5;7
+fixation_PupilSize_mean_sum,0.0168981487483729,fixation_PupilSize_mean_sum,5;7
+Sub-scanNtranstions_min,0.013691844738416,Sub-scanNtranstions_min,5;7
+horizontal saccade_sum,0.0128517919928962,horizontal saccade_sum,5;7
+Sub-scanDensity_sum,0.0077144965141413,Sub-scanDensity_sum,5;7
+Sub-scanDensity_sum,0.2478658329275403,Sub-scanDensity_sum,6;7
+fixation_PupilSize_max_sum,0.1092847253630557,fixation_PupilSize_max_sum,6;7
+saccadic amplitude_sum,0.0963187738464948,saccadic amplitude_sum,6;7
+Fixation Duration_sum,0.0643178732689263,Fixation Duration_sum,6;7
+Sub-scanNUniqueVisits_sum,0.0479251630230373,Sub-scanNUniqueVisits_sum,6;7
+fixation_PupilSize_std_sum,0.0452769299034113,fixation_PupilSize_std_sum,6;7
+Sub-scanEntropy_sum,0.043159528393938,Sub-scanEntropy_sum,6;7
+Fixation Count_sum,0.0407554494187328,Fixation Count_sum,6;7
+fixation_NumberOfPupilPeaks_sum,0.0360558980456952,fixation_NumberOfPupilPeaks_sum,6;7
+horizontal saccade_sum,0.0360276360350512,horizontal saccade_sum,6;7
+Sub-scanNtranstions_sum,0.0356636884528554,Sub-scanNtranstions_sum,6;7
+Fixation Count 250_sum,0.0346345660414008,Fixation Count 250_sum,6;7
+fixation_PupilPeaksAmplitude_max_sum,0.0345191864583642,fixation_PupilPeaksAmplitude_max_sum,6;7
+Sub-scanAverageWeightedDegree_sum,0.0343480852705795,Sub-scanAverageWeightedDegree_sum,6;7
+fixation_PupilSize_median_sum,0.0198840303695321,fixation_PupilSize_median_sum,6;7
+fixation_PupilSize_min_sum,0.0185806188657032,fixation_PupilSize_min_sum,6;7
+fixation_PupilSize_sum_sum,0.014749523179859,fixation_PupilSize_sum_sum,6;7
+fixation_PupilPeaksAmplitude_sum_sum,0.0145941734108591,fixation_PupilPeaksAmplitude_sum_sum,6;7
+fixation_PupilSize_mean_sum,0.013267321802065,fixation_PupilSize_mean_sum,6;7
+Sub-scanNUniqueVisits_min,0.0127709959228979,Sub-scanNUniqueVisits_min,6;7
+horizontal saccade_sum,0.2344994056441658,horizontal saccade_sum,7;7
+fixation_PupilSize_max_sum,0.086385818981915,fixation_PupilSize_max_sum,7;7
+fixation_PupilPeaksAmplitude_sum_sum,0.0736187091810652,fixation_PupilPeaksAmplitude_sum_sum,7;7
+saccadic amplitude_sum,0.0643196204063141,saccadic amplitude_sum,7;7
+Fixation Duration_sum,0.0616509699240614,Fixation Duration_sum,7;7
+Sub-scanEntropy_sum,0.0585137027393369,Sub-scanEntropy_sum,7;7
+fixation_NumberOfPupilPeaks_mean,0.0574452776736258,fixation_NumberOfPupilPeaks_mean,7;7
+fixation_PupilPeaksAmplitude_std_sum,0.0523633423570078,fixation_PupilPeaksAmplitude_std_sum,7;7
+horizontal saccade_std,0.0506532802000354,horizontal saccade_std,7;7
+fixation_PupilSize_min_sum,0.0471844230933097,fixation_PupilSize_min_sum,7;7
+Sub-scanAverageWeightedDegree_sum,0.0388617616735497,Sub-scanAverageWeightedDegree_sum,7;7
+fixation_PupilPeaksAmplitude_mean_sum,0.0346375970031772,fixation_PupilPeaksAmplitude_mean_sum,7;7
+Sub-scanDensity_sum,0.0344244480166457,Sub-scanDensity_sum,7;7
+fixation_PupilSize_mean_sum,0.029140377816783,fixation_PupilSize_mean_sum,7;7
+Sub-scanNtranstions_min,0.0208502746039189,Sub-scanNtranstions_min,7;7
+fixation_PupilPeaksAmplitude_max_sum,0.0199475588058217,fixation_PupilPeaksAmplitude_max_sum,7;7
+Fixation Count_sum,0.0170613320216567,Fixation Count_sum,7;7
+fixation_PupilSize_median_sum,0.0129563547353843,fixation_PupilSize_median_sum,7;7
+fixation_PupilSize_sum_sum,0.0054857451222247,fixation_PupilSize_sum_sum,7;7
+Sub-scanDensity_min,0.0,Sub-scanDensity_min,7;7
+fixation_PupilSize_mean_sum,0.2461723930652104,fixation_PupilSize_mean_sum,8;7
+Sub-scanDensity_std,0.1339992159172827,Sub-scanDensity_std,8;7
+fixation_PupilSize_max_sum,0.0706999936853048,fixation_PupilSize_max_sum,8;7
+Sub-scanEntropy_sum,0.0572127061027047,Sub-scanEntropy_sum,8;7
+Fixation Duration_sum,0.0479068084850449,Fixation Duration_sum,8;7
+horizontal saccade_sum,0.0475800784139588,horizontal saccade_sum,8;7
+fixation_PupilSize_min_sum,0.0458595675968989,fixation_PupilSize_min_sum,8;7
+fixation_PupilPeaksAmplitude_mean_sum,0.045010484873934,fixation_PupilPeaksAmplitude_mean_sum,8;7
+fixation_PupilPeaksAmplitude_sum_sum,0.0410771072641054,fixation_PupilPeaksAmplitude_sum_sum,8;7
+fixation_NumberOfPupilPeaks_sum,0.0407554810593497,fixation_NumberOfPupilPeaks_sum,8;7
+fixation_PupilSize_std_sum,0.0407371631434794,fixation_PupilSize_std_sum,8;7
+fixation_PupilPeaksAmplitude_median_sum,0.0332770389838776,fixation_PupilPeaksAmplitude_median_sum,8;7
+saccadic amplitude_sum,0.0309597217869061,saccadic amplitude_sum,8;7
+horizontal saccade_mean,0.0225987465914435,horizontal saccade_mean,8;7
+Sub-scanAverageWeightedDegree_sum,0.0224403847120668,Sub-scanAverageWeightedDegree_sum,8;7
+fixation_PupilSize_median_sum,0.0207522523764165,fixation_PupilSize_median_sum,8;7
+fixation_PupilSize_sum_sum,0.0161257793256558,fixation_PupilSize_sum_sum,8;7
+Fixation Count_sum,0.0136949511529447,Fixation Count_sum,8;7
+Sub-scanDensity_sum,0.0118819312081021,Sub-scanDensity_sum,8;7
+fixation_PupilPeaksAmplitude_max_sum,0.0112581942553124,fixation_PupilPeaksAmplitude_max_sum,8;7
+horizontal saccade_sum,0.2182650163430056,horizontal saccade_sum,9;7
+fixation_PupilSize_max_sum,0.0908559719563258,fixation_PupilSize_max_sum,9;7
+saccadic amplitude_sum,0.0882765695566668,saccadic amplitude_sum,9;7
+Sub-scanDensity_sum,0.0878480316176952,Sub-scanDensity_sum,9;7
+fixation_PupilSize_std_sum,0.0643847790105344,fixation_PupilSize_std_sum,9;7
+Sub-scanNUniqueVisits_sum,0.054074481837734,Sub-scanNUniqueVisits_sum,9;7
+non-horizontal saccade_sum,0.0463900960901319,non-horizontal saccade_sum,9;7
+fixation_NumberOfPupilPeaks_sum,0.045436080584316,fixation_NumberOfPupilPeaks_sum,9;7
+fixation_PupilPeaksAmplitude_sum_sum,0.0385594203997225,fixation_PupilPeaksAmplitude_sum_sum,9;7
+fixation_PupilSize_min_sum,0.0380964671993302,fixation_PupilSize_min_sum,9;7
+fixation_PupilPeaksAmplitude_min_sum,0.0378585054942397,fixation_PupilPeaksAmplitude_min_sum,9;7
+Sub-scanAverageWeightedDegree_sum,0.0376784699292462,Sub-scanAverageWeightedDegree_sum,9;7
+fixation_PupilPeaksAmplitude_mean_sum,0.0338241223463057,fixation_PupilPeaksAmplitude_mean_sum,9;7
+fixation_PupilPeaksAmplitude_max_sum,0.0233338561554359,fixation_PupilPeaksAmplitude_max_sum,9;7
+fixation_PupilPeaksAmplitude_median_sum,0.0233156161346072,fixation_PupilPeaksAmplitude_median_sum,9;7
+Fixation Count_sum,0.0190936636026227,Fixation Count_sum,9;7
+Fixation Duration_sum,0.0190891123383705,Fixation Duration_sum,9;7
+fixation_PupilSize_mean_sum,0.0176273794682833,fixation_PupilSize_mean_sum,9;7
+fixation_PupilSize_sum_sum,0.0121826187369604,fixation_PupilSize_sum_sum,9;7
+fixation_PupilSize_median_sum,0.0038097411984652,fixation_PupilSize_median_sum,9;7
+Sub-scanDensity_sum,0.2592608152816648,Sub-scanDensity_sum,0;8
+fixation_PupilSize_min_sum,0.0908032605836756,fixation_PupilSize_min_sum,0;8
+Sub-scanNUniqueVisits_sum,0.0786018021425737,Sub-scanNUniqueVisits_sum,0;8
+fixation_PupilSize_max_sum,0.0668449024567144,fixation_PupilSize_max_sum,0;8
+fixation_PupilPeaksAmplitude_min_sum,0.0667716175873331,fixation_PupilPeaksAmplitude_min_sum,0;8
+fixation_PupilPeaksAmplitude_std_sum,0.0598747689841222,fixation_PupilPeaksAmplitude_std_sum,0;8
+Fixation Duration 250_sum,0.054837539045015,Fixation Duration 250_sum,0;8
+fixation_PupilPeaksAmplitude_sum_sum,0.0438127747502106,fixation_PupilPeaksAmplitude_sum_sum,0;8
+Fixation Duration_sum,0.0401164922149229,Fixation Duration_sum,0;8
+fixation_PupilSize_std_sum,0.0393363344990334,fixation_PupilSize_std_sum,0;8
+horizontal saccade_sum,0.038170473653981,horizontal saccade_sum,0;8
+fixation_PupilSize_mean_sum,0.0309000067376825,fixation_PupilSize_mean_sum,0;8
+fixation_PupilPeaksAmplitude_max_sum,0.0290838419352445,fixation_PupilPeaksAmplitude_max_sum,0;8
+fixation_NumberOfPupilPeaks_sum,0.0257987768046309,fixation_NumberOfPupilPeaks_sum,0;8
+fixation_PupilPeaksAmplitude_mean_sum,0.02106681574187,fixation_PupilPeaksAmplitude_mean_sum,0;8
+Sub-scanAverageWeightedDegree_sum,0.0203796668333217,Sub-scanAverageWeightedDegree_sum,0;8
+fixation_PupilSize_median_sum,0.0131853482054998,fixation_PupilSize_median_sum,0;8
+Fixation Count_sum,0.0119328910502833,Fixation Count_sum,0;8
+fixation_PupilSize_sum_sum,0.0047586219087518,fixation_PupilSize_sum_sum,0;8
+fixation_PupilPeaksAmplitude_median_sum,0.0044632495834678,fixation_PupilPeaksAmplitude_median_sum,0;8
+Sub-scanDensity_sum,0.2532891710283987,Sub-scanDensity_sum,1;8
+fixation_PupilSize_max_sum,0.1159201748886552,fixation_PupilSize_max_sum,1;8
+horizontal saccade_mean,0.0657200815296931,horizontal saccade_mean,1;8
+Sub-scanNUniqueVisits_sum,0.064938831204643,Sub-scanNUniqueVisits_sum,1;8
+fixation_PupilSize_min_sum,0.063173704605148,fixation_PupilSize_min_sum,1;8
+fixation_PupilSize_std_sum,0.0477271832442556,fixation_PupilSize_std_sum,1;8
+fixation_PupilPeaksAmplitude_std_sum,0.0394391703311021,fixation_PupilPeaksAmplitude_std_sum,1;8
+horizontal saccade_sum,0.03700223585439,horizontal saccade_sum,1;8
+Fixation Count 250_sum,0.0363553248607988,Fixation Count 250_sum,1;8
+fixation_NumberOfPupilPeaks_sum,0.0339259150502346,fixation_NumberOfPupilPeaks_sum,1;8
+Sub-scanAverageWeightedDegree_max,0.0322791818426568,Sub-scanAverageWeightedDegree_max,1;8
+fixation_PupilPeaksAmplitude_median_sum,0.0308326286172154,fixation_PupilPeaksAmplitude_median_sum,1;8
+fixation_PupilPeaksAmplitude_sum_sum,0.0301760168576346,fixation_PupilPeaksAmplitude_sum_sum,1;8
+fixation_PupilPeaksAmplitude_max_sum,0.0285397019547461,fixation_PupilPeaksAmplitude_max_sum,1;8
+Sub-scanAverageWeightedDegree_sum,0.0284308260849236,Sub-scanAverageWeightedDegree_sum,1;8
+Sub-scanNtranstions_sum,0.0270278902790934,Sub-scanNtranstions_sum,1;8
+fixation_PupilPeaksAmplitude_mean_sum,0.0226535090135324,fixation_PupilPeaksAmplitude_mean_sum,1;8
+Fixation Duration_sum,0.0202950963635905,Fixation Duration_sum,1;8
+Fixation Count_sum,0.0132651990774188,Fixation Count_sum,1;8
+Spacecluster_countUniqueClusters,0.0090081573118686,Spacecluster_countUniqueClusters,1;8
+fixation_PupilSize_std_sum,0.3147451474253718,fixation_PupilSize_std_sum,2;8
+fixation_PupilPeaksAmplitude_sum_max,0.0748138011995952,fixation_PupilPeaksAmplitude_sum_max,2;8
+fixation_PupilSize_min_sum,0.0673660820389459,fixation_PupilSize_min_sum,2;8
+fixation_PupilPeaksAmplitude_median_sum,0.0537581934615887,fixation_PupilPeaksAmplitude_median_sum,2;8
+Sub-scanAverageWeightedDegree_sum,0.0512586075300671,Sub-scanAverageWeightedDegree_sum,2;8
+horizontal saccade_std,0.0479182724493434,horizontal saccade_std,2;8
+fixation_PupilPeaksAmplitude_max_sum,0.0477379113245455,fixation_PupilPeaksAmplitude_max_sum,2;8
+Sub-scanDensity_sum,0.0434319657051035,Sub-scanDensity_sum,2;8
+Fixation Duration_sum,0.043325589075409,Fixation Duration_sum,2;8
+fixation_PupilSize_sum_sum,0.0418383203640505,fixation_PupilSize_sum_sum,2;8
+fixation_PupilPeaksAmplitude_min_sum,0.0386734565270144,fixation_PupilPeaksAmplitude_min_sum,2;8
+Sub-scanNUniqueVisits_sum,0.0349520102609692,Sub-scanNUniqueVisits_sum,2;8
+fixation_PupilPeaksAmplitude_sum_sum,0.0288859758049472,fixation_PupilPeaksAmplitude_sum_sum,2;8
+fixation_NumberOfPupilPeaks_sum,0.0273030414575048,fixation_NumberOfPupilPeaks_sum,2;8
+Fixation Count_sum,0.0233634745869819,Fixation Count_sum,2;8
+fixation_PupilPeaksAmplitude_mean_sum,0.0192300398614624,fixation_PupilPeaksAmplitude_mean_sum,2;8
+non-horizontal saccade_sum,0.0144033579731337,non-horizontal saccade_sum,2;8
+horizontal saccade_sum,0.0118226428933168,horizontal saccade_sum,2;8
+fixation_PupilSize_max_sum,0.0106095282732028,fixation_PupilSize_max_sum,2;8
+fixation_PupilSize_mean_sum,0.0045625817874452,fixation_PupilSize_mean_sum,2;8
+Fixation Count_sum,0.2217887017983608,Fixation Count_sum,3;8
+Fixation Duration_sum,0.1030604021462684,Fixation Duration_sum,3;8
+fixation_PupilPeaksAmplitude_min_sum,0.0820862890163411,fixation_PupilPeaksAmplitude_min_sum,3;8
+fixation_PupilSize_max_sum,0.0592172118416809,fixation_PupilSize_max_sum,3;8
+Sub-scanAverageWeightedDegree_sum,0.0590803493389812,Sub-scanAverageWeightedDegree_sum,3;8
+fixation_PupilSize_min_sum,0.0587449801017699,fixation_PupilSize_min_sum,3;8
+fixation_PupilSize_std_sum,0.0528774103576257,fixation_PupilSize_std_sum,3;8
+horizontal saccade_std,0.0495682645070531,horizontal saccade_std,3;8
+fixation_NumberOfPupilPeaks_sum,0.0491067303682437,fixation_NumberOfPupilPeaks_sum,3;8
+Sub-scanNUniqueVisits_sum,0.0478882701815265,Sub-scanNUniqueVisits_sum,3;8
+Sub-scanDensity_sum,0.0447095181525627,Sub-scanDensity_sum,3;8
+horizontal saccade_sum,0.0443637468764681,horizontal saccade_sum,3;8
+fixation_PupilSize_sum_sum,0.0330326207316273,fixation_PupilSize_sum_sum,3;8
+Sub-scanEntropy_sum,0.0283178365850902,Sub-scanEntropy_sum,3;8
+fixation_PupilSize_median_sum,0.019539122169315,fixation_PupilSize_median_sum,3;8
+fixation_PupilPeaksAmplitude_sum_sum,0.017804357981105,fixation_PupilPeaksAmplitude_sum_sum,3;8
+fixation_PupilPeaksAmplitude_median_sum,0.0117820978174281,fixation_PupilPeaksAmplitude_median_sum,3;8
+fixation_PupilSize_mean_sum,0.0113602872766343,fixation_PupilSize_mean_sum,3;8
+fixation_PupilPeaksAmplitude_max_sum,0.0056718027519172,fixation_PupilPeaksAmplitude_max_sum,3;8
+non-horizontal saccade_sum,0.0,non-horizontal saccade_sum,3;8
+fixation_PupilPeaksAmplitude_min_sum,0.2709705270933098,fixation_PupilPeaksAmplitude_min_sum,4;8
+Sub-scanNUniqueVisits_mean,0.0971395709698532,Sub-scanNUniqueVisits_mean,4;8
+Fixation Duration_sum,0.0870067702095133,Fixation Duration_sum,4;8
+Sub-scanAverageWeightedDegree_std,0.0770221419688556,Sub-scanAverageWeightedDegree_std,4;8
+fixation_PupilPeaksAmplitude_sum_sum,0.0734884747798331,fixation_PupilPeaksAmplitude_sum_sum,4;8
+fixation_PupilSize_std_sum,0.068202180218179,fixation_PupilSize_std_sum,4;8
+fixation_PupilSize_max_sum,0.0513779629022329,fixation_PupilSize_max_sum,4;8
+fixation_PupilPeaksAmplitude_std_sum,0.0416598250730817,fixation_PupilPeaksAmplitude_std_sum,4;8
+fixation_NumberOfPupilPeaks_sum,0.0329250112683998,fixation_NumberOfPupilPeaks_sum,4;8
+fixation_PupilPeaksAmplitude_max_sum,0.0299078282875771,fixation_PupilPeaksAmplitude_max_sum,4;8
+Sub-scanEntropy_sum,0.027324816907225,Sub-scanEntropy_sum,4;8
+fixation_PupilSize_sum_sum,0.0263125124636943,fixation_PupilSize_sum_sum,4;8
+fixation_PupilSize_mean_sum,0.0233818785717633,fixation_PupilSize_mean_sum,4;8
+horizontal saccade_sum,0.0198187724489874,horizontal saccade_sum,4;8
+fixation_PupilPeaksAmplitude_mean_sum,0.0190516022953931,fixation_PupilPeaksAmplitude_mean_sum,4;8
+Sub-scanDensity_sum,0.015473659639726,Sub-scanDensity_sum,4;8
+Fixation Count_sum,0.011999398532848,Fixation Count_sum,4;8
+fixation_PupilPeaksAmplitude_median_sum,0.0119959549712769,fixation_PupilPeaksAmplitude_median_sum,4;8
+Sub-scanAverageWeightedDegree_sum,0.0099179679500865,Sub-scanAverageWeightedDegree_sum,4;8
+non-horizontal saccade_sum,0.005023143448163,non-horizontal saccade_sum,4;8
+Sub-scanDensity_sum,0.2971692694419812,Sub-scanDensity_sum,5;8
+fixation_PupilSize_std_sum,0.1015784278539904,fixation_PupilSize_std_sum,5;8
+non-horizontal saccade_sum,0.067783807420004,non-horizontal saccade_sum,5;8
+fixation_PupilSize_median_sum,0.0533707322802446,fixation_PupilSize_median_sum,5;8
+fixation_PupilPeaksAmplitude_std_sum,0.0471370849044952,fixation_PupilPeaksAmplitude_std_sum,5;8
+horizontal saccade_sum,0.0470783915791478,horizontal saccade_sum,5;8
+saccadic amplitude_sum,0.0446765432361841,saccadic amplitude_sum,5;8
+fixation_PupilPeaksAmplitude_sum_sum,0.042100099375212,fixation_PupilPeaksAmplitude_sum_sum,5;8
+fixation_PupilPeaksAmplitude_min_sum,0.0403463983933782,fixation_PupilPeaksAmplitude_min_sum,5;8
+Sub-scanNtranstions_sum,0.0384499860098905,Sub-scanNtranstions_sum,5;8
+Fixation Count 250_sum,0.0361009644356379,Fixation Count 250_sum,5;8
+fixation_PupilSize_max_sum,0.0324334822880967,fixation_PupilSize_max_sum,5;8
+non-horizontal saccade_std,0.0270075773591094,non-horizontal saccade_std,5;8
+fixation_PupilSize_min_sum,0.0260054742805717,fixation_PupilSize_min_sum,5;8
+fixation_PupilPeaksAmplitude_max_sum,0.0236204946893447,fixation_PupilPeaksAmplitude_max_sum,5;8
+Fixation Duration_sum,0.022816517605649,Fixation Duration_sum,5;8
+Sub-scanAverageWeightedDegree_sum,0.0213165485987889,Sub-scanAverageWeightedDegree_sum,5;8
+Sub-scanNUniqueVisits_sum,0.0166056619614522,Sub-scanNUniqueVisits_sum,5;8
+fixation_NumberOfPupilPeaks_sum,0.0144025382868208,fixation_NumberOfPupilPeaks_sum,5;8
+Fixation Count_sum,0.0,Fixation Count_sum,5;8
+Sub-scanAverageWeightedDegree_sum,0.3328250570374863,Sub-scanAverageWeightedDegree_sum,6;8
+Fixation Count_sum,0.0630484930166492,Fixation Count_sum,6;8
+saccadic amplitude_sum,0.0600596957100225,saccadic amplitude_sum,6;8
+fixation_PupilSize_max_sum,0.0594126204417233,fixation_PupilSize_max_sum,6;8
+non-horizontal saccade_sum,0.0526642082076877,non-horizontal saccade_sum,6;8
+Fixation Duration_sum,0.0494879717527887,Fixation Duration_sum,6;8
+fixation_PupilPeaksAmplitude_min_sum,0.0402029673826611,fixation_PupilPeaksAmplitude_min_sum,6;8
+fixation_PupilSize_median_sum,0.0379426669321351,fixation_PupilSize_median_sum,6;8
+Sub-scanDensity_sum,0.036663796437454,Sub-scanDensity_sum,6;8
+fixation_PupilSize_std_sum,0.0364112886468376,fixation_PupilSize_std_sum,6;8
+Fixation Count 250_sum,0.0335786535283525,Fixation Count 250_sum,6;8
+fixation_PupilSize_mean_sum,0.0323774891592305,fixation_PupilSize_mean_sum,6;8
+Sub-scanNUniqueVisits_sum,0.0312197384639076,Sub-scanNUniqueVisits_sum,6;8
+Sub-scanEntropy_sum,0.0256345766247336,Sub-scanEntropy_sum,6;8
+fixation_PupilPeaksAmplitude_max_sum,0.0251290506373702,fixation_PupilPeaksAmplitude_max_sum,6;8
+Sub-scanNtranstions_sum,0.024960555100036,Sub-scanNtranstions_sum,6;8
+fixation_PupilPeaksAmplitude_sum_sum,0.0238476461333762,fixation_PupilPeaksAmplitude_sum_sum,6;8
+fixation_PupilSize_sum_sum,0.0185668552726893,fixation_PupilSize_sum_sum,6;8
+fixation_NumberOfPupilPeaks_sum,0.0104901140844715,fixation_NumberOfPupilPeaks_sum,6;8
+fixation_PupilPeaksAmplitude_mean_sum,0.0054765554303865,fixation_PupilPeaksAmplitude_mean_sum,6;8
+fixation_PupilSize_std_sum,0.2433171879626388,fixation_PupilSize_std_sum,7;8
+fixation_NumberOfPupilPeaks_sum,0.1059889485499137,fixation_NumberOfPupilPeaks_sum,7;8
+saccadic amplitude_sum,0.075372767710256,saccadic amplitude_sum,7;8
+Fixation Duration_sum,0.0553034159945626,Fixation Duration_sum,7;8
+fixation_PupilPeaksAmplitude_max_sum,0.05472467466196,fixation_PupilPeaksAmplitude_max_sum,7;8
+fixation_PupilPeaksAmplitude_sum_sum,0.0480545157111245,fixation_PupilPeaksAmplitude_sum_sum,7;8
+fixation_PupilSize_max_sum,0.0446256592756045,fixation_PupilSize_max_sum,7;8
+Sub-scanEntropy_sum,0.0413465225023579,Sub-scanEntropy_sum,7;8
+fixation_PupilSize_min_sum,0.0371939143965798,fixation_PupilSize_min_sum,7;8
+fixation_PupilPeaksAmplitude_std_sum,0.034567313068023,fixation_PupilPeaksAmplitude_std_sum,7;8
+Fixation Duration 250_sum,0.0345438769599126,Fixation Duration 250_sum,7;8
+horizontal saccade_sum,0.0343573631961777,horizontal saccade_sum,7;8
+horizontal saccade_std,0.0332101421609279,horizontal saccade_std,7;8
+Fixation Count_sum,0.0307271170126212,Fixation Count_sum,7;8
+Sub-scanAverageWeightedDegree_sum,0.0267427176907081,Sub-scanAverageWeightedDegree_sum,7;8
+Sub-scanDensity_sum,0.0266974221234474,Sub-scanDensity_sum,7;8
+Fixation Count 250_sum,0.0261686375069645,Fixation Count 250_sum,7;8
+fixation_PupilSize_mean_sum,0.0208470715016871,fixation_PupilSize_mean_sum,7;8
+IsfixationInSpatialCluster_mean,0.0149640285041873,IsfixationInSpatialCluster_mean,7;8
+fixation_PupilSize_sum_sum,0.0112467035103445,fixation_PupilSize_sum_sum,7;8
+fixation_PupilSize_std_sum,0.2953284439759754,fixation_PupilSize_std_sum,8;8
+fixation_NumberOfPupilPeaks_sum,0.0815649440912102,fixation_NumberOfPupilPeaks_sum,8;8
+Sub-scanEntropy_sum,0.0758342634893783,Sub-scanEntropy_sum,8;8
+Sub-scanAverageWeightedDegree_sum,0.0758298292681674,Sub-scanAverageWeightedDegree_sum,8;8
+fixation_PupilSize_sum_sum,0.0594737864000348,fixation_PupilSize_sum_sum,8;8
+fixation_PupilPeaksAmplitude_std_sum,0.0557528554421805,fixation_PupilPeaksAmplitude_std_sum,8;8
+horizontal saccade_sum,0.0530139514603821,horizontal saccade_sum,8;8
+Fixation Count 250_mean,0.0469133523478456,Fixation Count 250_mean,8;8
+fixation_PupilSize_min_sum,0.0402819066058214,fixation_PupilSize_min_sum,8;8
+fixation_PupilSize_max_sum,0.0292375836428655,fixation_PupilSize_max_sum,8;8
+Sub-scanNUniqueVisits_sum,0.0289035543257911,Sub-scanNUniqueVisits_sum,8;8
+fixation_PupilPeaksAmplitude_max_sum,0.028518903557499,fixation_PupilPeaksAmplitude_max_sum,8;8
+fixation_PupilPeaksAmplitude_sum_sum,0.0249232826371424,fixation_PupilPeaksAmplitude_sum_sum,8;8
+Fixation Duration_sum,0.0217848286357505,Fixation Duration_sum,8;8
+Sub-scanDensity_sum,0.0189870591945772,Sub-scanDensity_sum,8;8
+Fixation Count_sum,0.0170724558807959,Fixation Count_sum,8;8
+fixation_PupilSize_mean_sum,0.014414598384458,fixation_PupilSize_mean_sum,8;8
+fixation_PupilPeaksAmplitude_mean_sum,0.0140012325111212,fixation_PupilPeaksAmplitude_mean_sum,8;8
+fixation_PupilPeaksAmplitude_median_sum,0.0091148498897244,fixation_PupilPeaksAmplitude_median_sum,8;8
+fixation_PupilSize_median_sum,0.0090483182592782,fixation_PupilSize_median_sum,8;8
+fixation_PupilSize_std_sum,0.3083046234979824,fixation_PupilSize_std_sum,9;8
+fixation_PupilPeaksAmplitude_sum_sum,0.0824537128336871,fixation_PupilPeaksAmplitude_sum_sum,9;8
+Sub-scanAverageWeightedDegree_sum,0.0746243660062457,Sub-scanAverageWeightedDegree_sum,9;8
+Sub-scanNUniqueVisits_sum,0.0655910486223061,Sub-scanNUniqueVisits_sum,9;8
+Fixation Duration_sum,0.0613786802546489,Fixation Duration_sum,9;8
+fixation_PupilSize_max_sum,0.0535057811029928,fixation_PupilSize_max_sum,9;8
+Fixation Count_sum,0.0508675644344253,Fixation Count_sum,9;8
+fixation_NumberOfPupilPeaks_sum,0.0471774112332669,fixation_NumberOfPupilPeaks_sum,9;8
+fixation_PupilPeaksAmplitude_min_sum,0.0451873465434804,fixation_PupilPeaksAmplitude_min_sum,9;8
+Sub-scanNtranstions_sum,0.025877708238481,Sub-scanNtranstions_sum,9;8
+fixation_PupilSize_sum_sum,0.0246357305866463,fixation_PupilSize_sum_sum,9;8
+fixation_PupilPeaksAmplitude_median_sum,0.024512209912171,fixation_PupilPeaksAmplitude_median_sum,9;8
+fixation_PupilPeaksAmplitude_max_sum,0.0222913202428333,fixation_PupilPeaksAmplitude_max_sum,9;8
+non-horizontal saccade_sum,0.020858736097778,non-horizontal saccade_sum,9;8
+Sub-scanDensity_sum,0.0206471143161694,Sub-scanDensity_sum,9;8
+fixation_PupilSize_min_sum,0.0189130941945555,fixation_PupilSize_min_sum,9;8
+Sub-scanEntropy_min,0.0171947907639884,Sub-scanEntropy_min,9;8
+fixation_PupilPeaksAmplitude_mean_sum,0.0131548630375137,fixation_PupilPeaksAmplitude_mean_sum,9;8
+horizontal saccade_std,0.0124014308142439,horizontal saccade_std,9;8
+horizontal saccade_sum,0.0104224672665828,horizontal saccade_sum,9;8
